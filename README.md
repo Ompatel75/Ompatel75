@@ -122,7 +122,7 @@ flowchart LR
 | <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white" /> | **Expert** | [Omm_Patel](https://codeforces.com/profile/Omm_Patel) |
 | <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" /> | **Knight** | [om_patel11](https://leetcode.com/u/om_patel11/) |
 | <img src="https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white" /> | **3 Star** | [om_patel_007](https://www.codechef.com/users/om_patel_007) |
-| <img src="https://img.shields.io/badge/-AtCoder-222222" /> | | [YOUR_ATCODER_ID](https://atcoder.jp/users/YOUR_ATCODER_ID) |
+| <img src="https://img.shields.io/badge/-AtCoder-222222" /> | **Cyan** | [Om_patel07]([https://atcoder.jp/users/YOUR_ATCODER_ID](https://atcoder.jp/users/Om_patel07)) |
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/om_patel11?theme=dark&font=Fira%20Code&ext=heatmap" />
