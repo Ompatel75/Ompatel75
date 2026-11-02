@@ -30,7 +30,7 @@
 │  > SCC/Bridges · Sprague-Grundy         │
 │                                         │
 │  $ echo $STATUS                         │
-│  > 1300+ problems solved ██████████ AC  │
+│  > 2000+ problems solved                │
 └─────────────────────────────────────────┘
 ```
 
@@ -41,7 +41,7 @@
 DA-IICT — Dhirubhai Ambani University
 
 **📚 Courses**
-DBMS · OS · OOP · DSA · Info Theory · Verilog/FPGA
+DBMS · OS · OOP · DSA · Info Theory · 
 
 **⚡ Primary Language**
 C++ (competitive programming)
@@ -95,7 +95,7 @@ User → FastAPI (JWT)
 
 The AI tutor analyses your wrong answer and explains _why_ it fails — not just what the correct answer is.
 
-🔗 [github.com/Ompatel75/Judgely](https://github.com/Ompatel75/Judgely) · [Live Demo ↗](https://judgely-1.onrender.com)
+🔗 [github.com/Ompatel75/Judgely](https://github.com/Ompatel75/Judgely) · [Live Demo ↗](https://judgely-two.vercel.app/)
 
 **Tech:** `FastAPI` `Celery` `Redis` `PostgreSQL` `Docker` `JWT`
 
@@ -254,13 +254,14 @@ Dijkstra variants, SCC/Bridges, Sprague-Grundy.
 <td align="center" width="33%">
 
 **LinkedIn**
-`TODO — fill data/profile.json`
+[@Om Patel]([https://github.com/Ompatel75](https://www.linkedin.com/in/om-patel-a2b19a332/))
 
 </td>
 <td align="center" width="33%">
 
 **Email**
-`TODO — fill data/profile.json`
+
+[ommalvaniya007@gmail.com]
 
 </td>
 </tr>
@@ -279,7 +280,7 @@ Welcome to JUDGE v2.0 — Authenticated as: Ompatel75
 Last login: whenever you were procrastinating
 
 $ cat /var/log/om_patel.log | grep "AC" | wc -l
-1300
+2000
 
 $ cat /var/log/om_patel.log | grep "WA" | wc -l
 [REDACTED — too many feelings involved]
@@ -287,15 +288,15 @@ $ cat /var/log/om_patel.log | grep "WA" | wc -l
 $ cat /etc/motd
 ┌──────────────────────────────────────────────────────────┐
 │  "The first 1000 WAs are the hardest."                   │
-│                                                           │
-│  To the future intern-me reading this commit history:    │
-│  yes, that O(n³) solution was intentional. I was         │
-│  testing the time limit. It failed. I know.              │
-│                                                           │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
+│                                                          │
 │  Anyway — if you got this far, you're either a           │
-│  recruiter (hi 👋) or a fellow CP nerd.                   │
+│  recruiter (hi 👋) or a fellow CP nerd.                  │
 │  Either way: let's talk. The contact section is above.   │
-│                                                           │
+│                                                          │
 │  rating++ // skill issue resolved                        │
 └──────────────────────────────────────────────────────────┘
 
