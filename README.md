@@ -254,7 +254,7 @@ Dijkstra variants, SCC/Bridges, Sprague-Grundy.
 <td align="center" width="33%">
 
 **LinkedIn**
-[@Om Patel]([https://github.com/Ompatel75](https://www.linkedin.com/in/om-patel-a2b19a332/))
+[@Om Patel](https://www.linkedin.com/in/om-patel-a2b19a332/)
 
 </td>
 <td align="center" width="33%">
