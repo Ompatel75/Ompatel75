@@ -228,3 +228,4 @@ export function generateGraphs() {
 if (process.argv[1].endsWith('generate-graphs.js')) {
   generateGraphs();
 }
+

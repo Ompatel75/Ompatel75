@@ -212,3 +212,4 @@ export function generateHero() {
 if (process.argv[1].endsWith('generate-hero.js')) {
   generateHero();
 }
+

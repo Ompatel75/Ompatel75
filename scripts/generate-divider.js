@@ -41,3 +41,4 @@ export function generateDivider() {
 if (process.argv[1].endsWith('generate-divider.js')) {
   generateDivider();
 }
+

@@ -96,3 +96,4 @@ export async function fetchCF() {
 if (process.argv[1].endsWith('fetch-cf.js')) {
   fetchCF().catch(e => { console.error(e); process.exit(1); });
 }
+

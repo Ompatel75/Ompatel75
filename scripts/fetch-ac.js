@@ -83,3 +83,4 @@ export async function fetchAC() {
 if (process.argv[1].endsWith('fetch-ac.js')) {
   fetchAC().catch(e => { console.error(e); process.exit(1); });
 }
+

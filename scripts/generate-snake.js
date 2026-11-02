@@ -336,3 +336,4 @@ export function generateSnakeBoth() {
 if (process.argv[1].endsWith('generate-snake.js')) {
   generateSnakeBoth();
 }
+

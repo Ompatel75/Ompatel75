@@ -154,3 +154,4 @@ export function generateStandings() {
 if (process.argv[1].endsWith('generate-standings.js')) {
   generateStandings();
 }
+

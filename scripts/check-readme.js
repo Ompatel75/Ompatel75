@@ -68,3 +68,4 @@ console.log(`\n✓ Rating data lives in SVGs (not hardcoded in README)`);
 
 console.log('\n' + (allPassed ? '✅ README verification passed.' : '❌ README has issues.'));
 process.exit(allPassed ? 0 : 1);
+

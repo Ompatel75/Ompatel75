@@ -66,3 +66,4 @@ for (const file of files) {
 
 console.log('\n' + (allPassed ? '✅ All SVGs passed lint.' : '❌ Some SVGs have issues.'));
 process.exit(allPassed ? 0 : 1);
+

@@ -156,3 +156,4 @@ export async function fetchLC() {
 if (process.argv[1].endsWith('fetch-lc.js')) {
   fetchLC().catch(e => { console.error(e); process.exit(1); });
 }
+

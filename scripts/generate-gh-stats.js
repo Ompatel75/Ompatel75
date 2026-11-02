@@ -87,3 +87,4 @@ export function generateGHStats() {
 if (process.argv[1].endsWith('generate-gh-stats.js')) {
   generateGHStats();
 }
+

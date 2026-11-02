@@ -137,3 +137,4 @@ export function generateStack() {
 if (process.argv[1].endsWith('generate-stack.js')) {
   generateStack();
 }
+

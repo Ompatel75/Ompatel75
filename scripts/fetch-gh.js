@@ -141,3 +141,4 @@ export async function fetchGH() {
 if (process.argv[1].endsWith('fetch-gh.js')) {
   fetchGH().catch(e => { console.error(e); process.exit(1); });
 }
+

@@ -140,3 +140,4 @@ export function generateArch() {
 if (process.argv[1].endsWith('generate-arch.js')) {
   generateArch();
 }
+
