@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 1056 222" width="1056" height="222"
+     role="img" aria-label="CP Snake eating accepted submissions">
+  <title>CP Snake — Om Patel's CP Activity</title>
+  <defs>
+    
+    <filter id="headGlowFilt" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      @media (prefers-reduced-motion: reduce) {
+        animateMotion, animate { display: none; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1056" height="222" fill="#ffffff"/>
+  <rect x="1" y="1" width="1054" height="220" fill="none" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Month labels -->
+  <text x="32" y="44"
+           font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">Nov</text>
+  <text x="127" y="44"
+           font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">Dec</text>
+  <text x="203" y="44"
+           font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">Jan</text>
+  <text x="298" y="44"
+           font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">Feb</text>
+  <text x="374" y="44"
+           font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">Mar</text>
+  <text x="450" y="44"
+           font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">Apr</text>
+  <text x="526" y="44"
+           font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">May</text>
+  <text x="621" y="44"
+           font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">Jun</text>
+  <text x="697" y="44"
+           font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">Jul</text>
+  <text x="773" y="44"
+           font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">Aug</text>
+  <text x="868" y="44"
+           font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">Sep</text>
+  <text x="944" y="44"
+           font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">Oct</text>
+  <!-- Day labels -->
+  <text x="26" y="64"
+           text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="8"
+           fill="#666">Sun</text>
+  <text x="26" y="102"
+           text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="8"
+           fill="#666">Tue</text>
+  <text x="26" y="140"
+           text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="8"
+           fill="#666">Thu</text>
+  <text x="26" y="178"
+           text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="8"
+           fill="#666">Sat</text>
+
+  <!-- Grid cells -->
+  
+  <rect id="c_0_0" x="32" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-01: 0 ACs</title>
+  </rect>
+  <rect id="c_0_1" x="32" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-02: 0 ACs</title>
+  </rect>
+  <rect id="c_0_2" x="32" y="90" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2025-11-03: 4 ACs</title>
+  </rect>
+  <rect id="c_0_3" x="32" y="109" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2025-11-04: 1 ACs</title>
+  </rect>
+  <rect id="c_0_4" x="32" y="128" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2025-11-05: 3 ACs</title>
+  </rect>
+  <rect id="c_0_5" x="32" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-06: 0 ACs</title>
+  </rect>
+  <rect id="c_0_6" x="32" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-07: 0 ACs</title>
+  </rect>
+  <rect id="c_1_0" x="51" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-08: 0 ACs</title>
+  </rect>
+  <rect id="c_1_1" x="51" y="71" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2025-11-09: 2 ACs</title>
+  </rect>
+  <rect id="c_1_2" x="51" y="90" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2025-11-10: 3 ACs</title>
+  </rect>
+  <rect id="c_1_3" x="51" y="109" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2025-11-11: 2 ACs</title>
+  </rect>
+  <rect id="c_1_4" x="51" y="128" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2025-11-12: 3 ACs</title>
+  </rect>
+  <rect id="c_1_5" x="51" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-13: 0 ACs</title>
+  </rect>
+  <rect id="c_1_6" x="51" y="166" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2025-11-14: 3 ACs</title>
+  </rect>
+  <rect id="c_2_0" x="70" y="52" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2025-11-15: 2 ACs</title>
+  </rect>
+  <rect id="c_2_1" x="70" y="71" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2025-11-16: 4 ACs</title>
+  </rect>
+  <rect id="c_2_2" x="70" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-17: 0 ACs</title>
+  </rect>
+  <rect id="c_2_3" x="70" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-18: 0 ACs</title>
+  </rect>
+  <rect id="c_2_4" x="70" y="128" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2025-11-19: 1 ACs</title>
+  </rect>
+  <rect id="c_2_5" x="70" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-20: 0 ACs</title>
+  </rect>
+  <rect id="c_2_6" x="70" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-21: 0 ACs</title>
+  </rect>
+  <rect id="c_3_0" x="89" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-22: 0 ACs</title>
+  </rect>
+  <rect id="c_3_1" x="89" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-23: 0 ACs</title>
+  </rect>
+  <rect id="c_3_2" x="89" y="90" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2025-11-24: 2 ACs</title>
+  </rect>
+  <rect id="c_3_3" x="89" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-25: 0 ACs</title>
+  </rect>
+  <rect id="c_3_4" x="89" y="128" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2025-11-26: 4 ACs</title>
+  </rect>
+  <rect id="c_3_5" x="89" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-27: 0 ACs</title>
+  </rect>
+  <rect id="c_3_6" x="89" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-28: 0 ACs</title>
+  </rect>
+  <rect id="c_4_0" x="108" y="52" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2025-11-29: 4 ACs</title>
+  </rect>
+  <rect id="c_4_1" x="108" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-11-30: 0 ACs</title>
+  </rect>
+  <rect id="c_4_2" x="108" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-01: 0 ACs</title>
+  </rect>
+  <rect id="c_4_3" x="108" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-02: 0 ACs</title>
+  </rect>
+  <rect id="c_4_4" x="108" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-03: 0 ACs</title>
+  </rect>
+  <rect id="c_4_5" x="108" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-04: 0 ACs</title>
+  </rect>
+  <rect id="c_4_6" x="108" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-05: 0 ACs</title>
+  </rect>
+  <rect id="c_5_0" x="127" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-06: 0 ACs</title>
+  </rect>
+  <rect id="c_5_1" x="127" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-07: 0 ACs</title>
+  </rect>
+  <rect id="c_5_2" x="127" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-08: 0 ACs</title>
+  </rect>
+  <rect id="c_5_3" x="127" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-09: 0 ACs</title>
+  </rect>
+  <rect id="c_5_4" x="127" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-10: 0 ACs</title>
+  </rect>
+  <rect id="c_5_5" x="127" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-11: 0 ACs</title>
+  </rect>
+  <rect id="c_5_6" x="127" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-12: 0 ACs</title>
+  </rect>
+  <rect id="c_6_0" x="146" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-13: 0 ACs</title>
+  </rect>
+  <rect id="c_6_1" x="146" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-14: 0 ACs</title>
+  </rect>
+  <rect id="c_6_2" x="146" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-15: 0 ACs</title>
+  </rect>
+  <rect id="c_6_3" x="146" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-16: 0 ACs</title>
+  </rect>
+  <rect id="c_6_4" x="146" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-17: 0 ACs</title>
+  </rect>
+  <rect id="c_6_5" x="146" y="147" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2025-12-18: 1 ACs</title>
+  </rect>
+  <rect id="c_6_6" x="146" y="166" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2025-12-19: 2 ACs</title>
+  </rect>
+  <rect id="c_7_0" x="165" y="52" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2025-12-20: 3 ACs</title>
+  </rect>
+  <rect id="c_7_1" x="165" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-21: 0 ACs</title>
+  </rect>
+  <rect id="c_7_2" x="165" y="90" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2025-12-22: 1 ACs</title>
+  </rect>
+  <rect id="c_7_3" x="165" y="109" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2025-12-23: 4 ACs</title>
+  </rect>
+  <rect id="c_7_4" x="165" y="128" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2025-12-24: 4 ACs</title>
+  </rect>
+  <rect id="c_7_5" x="165" y="147" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2025-12-25: 2 ACs</title>
+  </rect>
+  <rect id="c_7_6" x="165" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-26: 0 ACs</title>
+  </rect>
+  <rect id="c_8_0" x="184" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2025-12-27: 0 ACs</title>
+  </rect>
+  <rect id="c_8_1" x="184" y="71" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2025-12-28: 5 ACs</title>
+  </rect>
+  <rect id="c_8_2" x="184" y="90" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2025-12-29: 3 ACs</title>
+  </rect>
+  <rect id="c_8_3" x="184" y="109" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2025-12-30: 2 ACs</title>
+  </rect>
+  <rect id="c_8_4" x="184" y="128" width="16" height="16"
+        rx="4" fill="rgb(149,32,186)">
+    <title>2025-12-31: 7 ACs</title>
+  </rect>
+  <rect id="c_8_5" x="184" y="147" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-01-01: 4 ACs</title>
+  </rect>
+  <rect id="c_8_6" x="184" y="166" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-01-02: 5 ACs</title>
+  </rect>
+  <rect id="c_9_0" x="203" y="52" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-01-03: 5 ACs</title>
+  </rect>
+  <rect id="c_9_1" x="203" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-01-04: 0 ACs</title>
+  </rect>
+  <rect id="c_9_2" x="203" y="90" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-01-05: 4 ACs</title>
+  </rect>
+  <rect id="c_9_3" x="203" y="109" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2026-01-06: 3 ACs</title>
+  </rect>
+  <rect id="c_9_4" x="203" y="128" width="16" height="16"
+        rx="4" fill="rgb(198,17,159)">
+    <title>2026-01-07: 19 ACs</title>
+  </rect>
+  <rect id="c_9_5" x="203" y="147" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-01-08: 10 ACs</title>
+  </rect>
+  <rect id="c_9_6" x="203" y="166" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-01-09: 1 ACs</title>
+  </rect>
+  <rect id="c_10_0" x="222" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-01-10: 0 ACs</title>
+  </rect>
+  <rect id="c_10_1" x="222" y="71" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2026-01-11: 3 ACs</title>
+  </rect>
+  <rect id="c_10_2" x="222" y="90" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-01-12: 6 ACs</title>
+  </rect>
+  <rect id="c_10_3" x="222" y="109" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2026-01-13: 3 ACs</title>
+  </rect>
+  <rect id="c_10_4" x="222" y="128" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-01-14: 4 ACs</title>
+  </rect>
+  <rect id="c_10_5" x="222" y="147" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-01-15: 1 ACs</title>
+  </rect>
+  <rect id="c_10_6" x="222" y="166" width="16" height="16"
+        rx="4" fill="rgb(170,25,175)">
+    <title>2026-01-16: 12 ACs</title>
+  </rect>
+  <rect id="c_11_0" x="241" y="52" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-01-17: 10 ACs</title>
+  </rect>
+  <rect id="c_11_1" x="241" y="71" width="16" height="16"
+        rx="4" fill="rgb(198,17,159)">
+    <title>2026-01-18: 19 ACs</title>
+  </rect>
+  <rect id="c_11_2" x="241" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-01-19: 0 ACs</title>
+  </rect>
+  <rect id="c_11_3" x="241" y="109" width="16" height="16"
+        rx="4" fill="rgb(170,25,175)">
+    <title>2026-01-20: 12 ACs</title>
+  </rect>
+  <rect id="c_11_4" x="241" y="128" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-01-21: 1 ACs</title>
+  </rect>
+  <rect id="c_11_5" x="241" y="147" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-01-22: 5 ACs</title>
+  </rect>
+  <rect id="c_11_6" x="241" y="166" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2026-01-23: 3 ACs</title>
+  </rect>
+  <rect id="c_12_0" x="260" y="52" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-01-24: 4 ACs</title>
+  </rect>
+  <rect id="c_12_1" x="260" y="71" width="16" height="16"
+        rx="4" fill="rgb(174,24,173)">
+    <title>2026-01-25: 13 ACs</title>
+  </rect>
+  <rect id="c_12_2" x="260" y="90" width="16" height="16"
+        rx="4" fill="rgb(202,16,157)">
+    <title>2026-01-26: 20 ACs</title>
+  </rect>
+  <rect id="c_12_3" x="260" y="109" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-01-27: 5 ACs</title>
+  </rect>
+  <rect id="c_12_4" x="260" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-01-28: 0 ACs</title>
+  </rect>
+  <rect id="c_12_5" x="260" y="147" width="16" height="16"
+        rx="4" fill="rgb(158,29,182)">
+    <title>2026-01-29: 9 ACs</title>
+  </rect>
+  <rect id="c_12_6" x="260" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-01-30: 0 ACs</title>
+  </rect>
+  <rect id="c_13_0" x="279" y="52" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-01-31: 10 ACs</title>
+  </rect>
+  <rect id="c_13_1" x="279" y="71" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-02-01: 10 ACs</title>
+  </rect>
+  <rect id="c_13_2" x="279" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-02: 0 ACs</title>
+  </rect>
+  <rect id="c_13_3" x="279" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-03: 0 ACs</title>
+  </rect>
+  <rect id="c_13_4" x="279" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-04: 0 ACs</title>
+  </rect>
+  <rect id="c_13_5" x="279" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-05: 0 ACs</title>
+  </rect>
+  <rect id="c_13_6" x="279" y="166" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-02-06: 2 ACs</title>
+  </rect>
+  <rect id="c_14_0" x="298" y="52" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-02-07: 1 ACs</title>
+  </rect>
+  <rect id="c_14_1" x="298" y="71" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2026-02-08: 3 ACs</title>
+  </rect>
+  <rect id="c_14_2" x="298" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-09: 0 ACs</title>
+  </rect>
+  <rect id="c_14_3" x="298" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-10: 0 ACs</title>
+  </rect>
+  <rect id="c_14_4" x="298" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-11: 0 ACs</title>
+  </rect>
+  <rect id="c_14_5" x="298" y="147" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-02-12: 4 ACs</title>
+  </rect>
+  <rect id="c_14_6" x="298" y="166" width="16" height="16"
+        rx="4" fill="rgb(149,32,186)">
+    <title>2026-02-13: 7 ACs</title>
+  </rect>
+  <rect id="c_15_0" x="317" y="52" width="16" height="16"
+        rx="4" fill="rgb(166,27,177)">
+    <title>2026-02-14: 11 ACs</title>
+  </rect>
+  <rect id="c_15_1" x="317" y="71" width="16" height="16"
+        rx="4" fill="rgb(153,30,184)">
+    <title>2026-02-15: 8 ACs</title>
+  </rect>
+  <rect id="c_15_2" x="317" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-16: 0 ACs</title>
+  </rect>
+  <rect id="c_15_3" x="317" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-17: 0 ACs</title>
+  </rect>
+  <rect id="c_15_4" x="317" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-18: 0 ACs</title>
+  </rect>
+  <rect id="c_15_5" x="317" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-19: 0 ACs</title>
+  </rect>
+  <rect id="c_15_6" x="317" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-20: 0 ACs</title>
+  </rect>
+  <rect id="c_16_0" x="336" y="52" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-02-21: 10 ACs</title>
+  </rect>
+  <rect id="c_16_1" x="336" y="71" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-02-22: 4 ACs</title>
+  </rect>
+  <rect id="c_16_2" x="336" y="90" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-02-23: 1 ACs</title>
+  </rect>
+  <rect id="c_16_3" x="336" y="109" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-02-24: 4 ACs</title>
+  </rect>
+  <rect id="c_16_4" x="336" y="128" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-02-25: 2 ACs</title>
+  </rect>
+  <rect id="c_16_5" x="336" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-26: 0 ACs</title>
+  </rect>
+  <rect id="c_16_6" x="336" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-27: 0 ACs</title>
+  </rect>
+  <rect id="c_17_0" x="355" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-02-28: 0 ACs</title>
+  </rect>
+  <rect id="c_17_1" x="355" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-03-01: 0 ACs</title>
+  </rect>
+  <rect id="c_17_2" x="355" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-03-02: 0 ACs</title>
+  </rect>
+  <rect id="c_17_3" x="355" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-03-03: 0 ACs</title>
+  </rect>
+  <rect id="c_17_4" x="355" y="128" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-03-04: 6 ACs</title>
+  </rect>
+  <rect id="c_17_5" x="355" y="147" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-03-05: 6 ACs</title>
+  </rect>
+  <rect id="c_17_6" x="355" y="166" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2026-03-06: 3 ACs</title>
+  </rect>
+  <rect id="c_18_0" x="374" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-03-07: 0 ACs</title>
+  </rect>
+  <rect id="c_18_1" x="374" y="71" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-03-08: 4 ACs</title>
+  </rect>
+  <rect id="c_18_2" x="374" y="90" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-03-09: 10 ACs</title>
+  </rect>
+  <rect id="c_18_3" x="374" y="109" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-03-10: 5 ACs</title>
+  </rect>
+  <rect id="c_18_4" x="374" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-03-11: 0 ACs</title>
+  </rect>
+  <rect id="c_18_5" x="374" y="147" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-03-12: 4 ACs</title>
+  </rect>
+  <rect id="c_18_6" x="374" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-03-13: 0 ACs</title>
+  </rect>
+  <rect id="c_19_0" x="393" y="52" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-03-14: 5 ACs</title>
+  </rect>
+  <rect id="c_19_1" x="393" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-03-15: 0 ACs</title>
+  </rect>
+  <rect id="c_19_2" x="393" y="90" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-03-16: 2 ACs</title>
+  </rect>
+  <rect id="c_19_3" x="393" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-03-17: 0 ACs</title>
+  </rect>
+  <rect id="c_19_4" x="393" y="128" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-03-18: 2 ACs</title>
+  </rect>
+  <rect id="c_19_5" x="393" y="147" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-03-19: 1 ACs</title>
+  </rect>
+  <rect id="c_19_6" x="393" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-03-20: 0 ACs</title>
+  </rect>
+  <rect id="c_20_0" x="412" y="52" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-03-21: 1 ACs</title>
+  </rect>
+  <rect id="c_20_1" x="412" y="71" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-03-22: 2 ACs</title>
+  </rect>
+  <rect id="c_20_2" x="412" y="90" width="16" height="16"
+        rx="4" fill="rgb(158,29,182)">
+    <title>2026-03-23: 9 ACs</title>
+  </rect>
+  <rect id="c_20_3" x="412" y="109" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2026-03-24: 3 ACs</title>
+  </rect>
+  <rect id="c_20_4" x="412" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-03-25: 0 ACs</title>
+  </rect>
+  <rect id="c_20_5" x="412" y="147" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-03-26: 1 ACs</title>
+  </rect>
+  <rect id="c_20_6" x="412" y="166" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-03-27: 2 ACs</title>
+  </rect>
+  <rect id="c_21_0" x="431" y="52" width="16" height="16"
+        rx="4" fill="rgb(166,27,177)">
+    <title>2026-03-28: 11 ACs</title>
+  </rect>
+  <rect id="c_21_1" x="431" y="71" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-03-29: 1 ACs</title>
+  </rect>
+  <rect id="c_21_2" x="431" y="90" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2026-03-30: 3 ACs</title>
+  </rect>
+  <rect id="c_21_3" x="431" y="109" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-03-31: 1 ACs</title>
+  </rect>
+  <rect id="c_21_4" x="431" y="128" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-04-01: 5 ACs</title>
+  </rect>
+  <rect id="c_21_5" x="431" y="147" width="16" height="16"
+        rx="4" fill="rgb(170,25,175)">
+    <title>2026-04-02: 12 ACs</title>
+  </rect>
+  <rect id="c_21_6" x="431" y="166" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-04-03: 1 ACs</title>
+  </rect>
+  <rect id="c_22_0" x="450" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-04: 0 ACs</title>
+  </rect>
+  <rect id="c_22_1" x="450" y="71" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-04-05: 6 ACs</title>
+  </rect>
+  <rect id="c_22_2" x="450" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-06: 0 ACs</title>
+  </rect>
+  <rect id="c_22_3" x="450" y="109" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-04-07: 1 ACs</title>
+  </rect>
+  <rect id="c_22_4" x="450" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-08: 0 ACs</title>
+  </rect>
+  <rect id="c_22_5" x="450" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-09: 0 ACs</title>
+  </rect>
+  <rect id="c_22_6" x="450" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-10: 0 ACs</title>
+  </rect>
+  <rect id="c_23_0" x="469" y="52" width="16" height="16"
+        rx="4" fill="rgb(178,23,171)">
+    <title>2026-04-11: 14 ACs</title>
+  </rect>
+  <rect id="c_23_1" x="469" y="71" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-04-12: 1 ACs</title>
+  </rect>
+  <rect id="c_23_2" x="469" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-13: 0 ACs</title>
+  </rect>
+  <rect id="c_23_3" x="469" y="109" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-04-14: 1 ACs</title>
+  </rect>
+  <rect id="c_23_4" x="469" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-15: 0 ACs</title>
+  </rect>
+  <rect id="c_23_5" x="469" y="147" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-04-16: 2 ACs</title>
+  </rect>
+  <rect id="c_23_6" x="469" y="166" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-04-17: 1 ACs</title>
+  </rect>
+  <rect id="c_24_0" x="488" y="52" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-04-18: 2 ACs</title>
+  </rect>
+  <rect id="c_24_1" x="488" y="71" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-04-19: 6 ACs</title>
+  </rect>
+  <rect id="c_24_2" x="488" y="90" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-04-20: 2 ACs</title>
+  </rect>
+  <rect id="c_24_3" x="488" y="109" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-04-21: 6 ACs</title>
+  </rect>
+  <rect id="c_24_4" x="488" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-22: 0 ACs</title>
+  </rect>
+  <rect id="c_24_5" x="488" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-23: 0 ACs</title>
+  </rect>
+  <rect id="c_24_6" x="488" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-24: 0 ACs</title>
+  </rect>
+  <rect id="c_25_0" x="507" y="52" width="16" height="16"
+        rx="4" fill="rgb(153,30,184)">
+    <title>2026-04-25: 8 ACs</title>
+  </rect>
+  <rect id="c_25_1" x="507" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-26: 0 ACs</title>
+  </rect>
+  <rect id="c_25_2" x="507" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-27: 0 ACs</title>
+  </rect>
+  <rect id="c_25_3" x="507" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-28: 0 ACs</title>
+  </rect>
+  <rect id="c_25_4" x="507" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-29: 0 ACs</title>
+  </rect>
+  <rect id="c_25_5" x="507" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-04-30: 0 ACs</title>
+  </rect>
+  <rect id="c_25_6" x="507" y="166" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-05-01: 1 ACs</title>
+  </rect>
+  <rect id="c_26_0" x="526" y="52" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-05-02: 2 ACs</title>
+  </rect>
+  <rect id="c_26_1" x="526" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-03: 0 ACs</title>
+  </rect>
+  <rect id="c_26_2" x="526" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-04: 0 ACs</title>
+  </rect>
+  <rect id="c_26_3" x="526" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-05: 0 ACs</title>
+  </rect>
+  <rect id="c_26_4" x="526" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-06: 0 ACs</title>
+  </rect>
+  <rect id="c_26_5" x="526" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-07: 0 ACs</title>
+  </rect>
+  <rect id="c_26_6" x="526" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-08: 0 ACs</title>
+  </rect>
+  <rect id="c_27_0" x="545" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-09: 0 ACs</title>
+  </rect>
+  <rect id="c_27_1" x="545" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-10: 0 ACs</title>
+  </rect>
+  <rect id="c_27_2" x="545" y="90" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-05-11: 2 ACs</title>
+  </rect>
+  <rect id="c_27_3" x="545" y="109" width="16" height="16"
+        rx="4" fill="rgb(149,32,186)">
+    <title>2026-05-12: 7 ACs</title>
+  </rect>
+  <rect id="c_27_4" x="545" y="128" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-05-13: 6 ACs</title>
+  </rect>
+  <rect id="c_27_5" x="545" y="147" width="16" height="16"
+        rx="4" fill="rgb(170,25,175)">
+    <title>2026-05-14: 12 ACs</title>
+  </rect>
+  <rect id="c_27_6" x="545" y="166" width="16" height="16"
+        rx="4" fill="rgb(158,29,182)">
+    <title>2026-05-15: 9 ACs</title>
+  </rect>
+  <rect id="c_28_0" x="564" y="52" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-05-16: 4 ACs</title>
+  </rect>
+  <rect id="c_28_1" x="564" y="71" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-05-17: 10 ACs</title>
+  </rect>
+  <rect id="c_28_2" x="564" y="90" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2026-05-18: 3 ACs</title>
+  </rect>
+  <rect id="c_28_3" x="564" y="109" width="16" height="16"
+        rx="4" fill="rgb(255,0,128)">
+    <title>2026-05-19: 33 ACs</title>
+  </rect>
+  <rect id="c_28_4" x="564" y="128" width="16" height="16"
+        rx="4" fill="rgb(166,27,177)">
+    <title>2026-05-20: 11 ACs</title>
+  </rect>
+  <rect id="c_28_5" x="564" y="147" width="16" height="16"
+        rx="4" fill="rgb(202,16,157)">
+    <title>2026-05-21: 20 ACs</title>
+  </rect>
+  <rect id="c_28_6" x="564" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-22: 0 ACs</title>
+  </rect>
+  <rect id="c_29_0" x="583" y="52" width="16" height="16"
+        rx="4" fill="rgb(190,19,164)">
+    <title>2026-05-23: 17 ACs</title>
+  </rect>
+  <rect id="c_29_1" x="583" y="71" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-05-24: 10 ACs</title>
+  </rect>
+  <rect id="c_29_2" x="583" y="90" width="16" height="16"
+        rx="4" fill="rgb(166,27,177)">
+    <title>2026-05-25: 11 ACs</title>
+  </rect>
+  <rect id="c_29_3" x="583" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-26: 0 ACs</title>
+  </rect>
+  <rect id="c_29_4" x="583" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-27: 0 ACs</title>
+  </rect>
+  <rect id="c_29_5" x="583" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-28: 0 ACs</title>
+  </rect>
+  <rect id="c_29_6" x="583" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-29: 0 ACs</title>
+  </rect>
+  <rect id="c_30_0" x="602" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-30: 0 ACs</title>
+  </rect>
+  <rect id="c_30_1" x="602" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-05-31: 0 ACs</title>
+  </rect>
+  <rect id="c_30_2" x="602" y="90" width="16" height="16"
+        rx="4" fill="rgb(210,13,153)">
+    <title>2026-06-01: 22 ACs</title>
+  </rect>
+  <rect id="c_30_3" x="602" y="109" width="16" height="16"
+        rx="4" fill="rgb(170,25,175)">
+    <title>2026-06-02: 12 ACs</title>
+  </rect>
+  <rect id="c_30_4" x="602" y="128" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-06-03: 6 ACs</title>
+  </rect>
+  <rect id="c_30_5" x="602" y="147" width="16" height="16"
+        rx="4" fill="rgb(231,7,141)">
+    <title>2026-06-04: 27 ACs</title>
+  </rect>
+  <rect id="c_30_6" x="602" y="166" width="16" height="16"
+        rx="4" fill="rgb(227,8,144)">
+    <title>2026-06-05: 26 ACs</title>
+  </rect>
+  <rect id="c_31_0" x="621" y="52" width="16" height="16"
+        rx="4" fill="rgb(235,6,139)">
+    <title>2026-06-06: 28 ACs</title>
+  </rect>
+  <rect id="c_31_1" x="621" y="71" width="16" height="16"
+        rx="4" fill="rgb(202,16,157)">
+    <title>2026-06-07: 20 ACs</title>
+  </rect>
+  <rect id="c_31_2" x="621" y="90" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-06-08: 6 ACs</title>
+  </rect>
+  <rect id="c_31_3" x="621" y="109" width="16" height="16"
+        rx="4" fill="rgb(218,11,148)">
+    <title>2026-06-09: 24 ACs</title>
+  </rect>
+  <rect id="c_31_4" x="621" y="128" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-06-10: 10 ACs</title>
+  </rect>
+  <rect id="c_31_5" x="621" y="147" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-06-11: 10 ACs</title>
+  </rect>
+  <rect id="c_31_6" x="621" y="166" width="16" height="16"
+        rx="4" fill="rgb(186,21,166)">
+    <title>2026-06-12: 16 ACs</title>
+  </rect>
+  <rect id="c_32_0" x="640" y="52" width="16" height="16"
+        rx="4" fill="rgb(202,16,157)">
+    <title>2026-06-13: 20 ACs</title>
+  </rect>
+  <rect id="c_32_1" x="640" y="71" width="16" height="16"
+        rx="4" fill="rgb(178,23,171)">
+    <title>2026-06-14: 14 ACs</title>
+  </rect>
+  <rect id="c_32_2" x="640" y="90" width="16" height="16"
+        rx="4" fill="rgb(170,25,175)">
+    <title>2026-06-15: 12 ACs</title>
+  </rect>
+  <rect id="c_32_3" x="640" y="109" width="16" height="16"
+        rx="4" fill="rgb(206,15,155)">
+    <title>2026-06-16: 21 ACs</title>
+  </rect>
+  <rect id="c_32_4" x="640" y="128" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-06-17: 2 ACs</title>
+  </rect>
+  <rect id="c_32_5" x="640" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-06-18: 0 ACs</title>
+  </rect>
+  <rect id="c_32_6" x="640" y="166" width="16" height="16"
+        rx="4" fill="rgb(166,27,177)">
+    <title>2026-06-19: 11 ACs</title>
+  </rect>
+  <rect id="c_33_0" x="659" y="52" width="16" height="16"
+        rx="4" fill="rgb(190,19,164)">
+    <title>2026-06-20: 17 ACs</title>
+  </rect>
+  <rect id="c_33_1" x="659" y="71" width="16" height="16"
+        rx="4" fill="rgb(153,30,184)">
+    <title>2026-06-21: 8 ACs</title>
+  </rect>
+  <rect id="c_33_2" x="659" y="90" width="16" height="16"
+        rx="4" fill="rgb(158,29,182)">
+    <title>2026-06-22: 9 ACs</title>
+  </rect>
+  <rect id="c_33_3" x="659" y="109" width="16" height="16"
+        rx="4" fill="rgb(174,24,173)">
+    <title>2026-06-23: 13 ACs</title>
+  </rect>
+  <rect id="c_33_4" x="659" y="128" width="16" height="16"
+        rx="4" fill="rgb(149,32,186)">
+    <title>2026-06-24: 7 ACs</title>
+  </rect>
+  <rect id="c_33_5" x="659" y="147" width="16" height="16"
+        rx="4" fill="rgb(214,12,150)">
+    <title>2026-06-25: 23 ACs</title>
+  </rect>
+  <rect id="c_33_6" x="659" y="166" width="16" height="16"
+        rx="4" fill="rgb(198,17,159)">
+    <title>2026-06-26: 19 ACs</title>
+  </rect>
+  <rect id="c_34_0" x="678" y="52" width="16" height="16"
+        rx="4" fill="rgb(182,22,168)">
+    <title>2026-06-27: 15 ACs</title>
+  </rect>
+  <rect id="c_34_1" x="678" y="71" width="16" height="16"
+        rx="4" fill="rgb(214,12,150)">
+    <title>2026-06-28: 23 ACs</title>
+  </rect>
+  <rect id="c_34_2" x="678" y="90" width="16" height="16"
+        rx="4" fill="rgb(227,8,144)">
+    <title>2026-06-29: 26 ACs</title>
+  </rect>
+  <rect id="c_34_3" x="678" y="109" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-06-30: 4 ACs</title>
+  </rect>
+  <rect id="c_34_4" x="678" y="128" width="16" height="16"
+        rx="4" fill="rgb(149,32,186)">
+    <title>2026-07-01: 7 ACs</title>
+  </rect>
+  <rect id="c_34_5" x="678" y="147" width="16" height="16"
+        rx="4" fill="rgb(182,22,168)">
+    <title>2026-07-02: 15 ACs</title>
+  </rect>
+  <rect id="c_34_6" x="678" y="166" width="16" height="16"
+        rx="4" fill="rgb(198,17,159)">
+    <title>2026-07-03: 19 ACs</title>
+  </rect>
+  <rect id="c_35_0" x="697" y="52" width="16" height="16"
+        rx="4" fill="rgb(235,6,139)">
+    <title>2026-07-04: 28 ACs</title>
+  </rect>
+  <rect id="c_35_1" x="697" y="71" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-07-05: 5 ACs</title>
+  </rect>
+  <rect id="c_35_2" x="697" y="90" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-07-06: 6 ACs</title>
+  </rect>
+  <rect id="c_35_3" x="697" y="109" width="16" height="16"
+        rx="4" fill="rgb(153,30,184)">
+    <title>2026-07-07: 8 ACs</title>
+  </rect>
+  <rect id="c_35_4" x="697" y="128" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-07-08: 5 ACs</title>
+  </rect>
+  <rect id="c_35_5" x="697" y="147" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-07-09: 2 ACs</title>
+  </rect>
+  <rect id="c_35_6" x="697" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-07-10: 0 ACs</title>
+  </rect>
+  <rect id="c_36_0" x="716" y="52" width="16" height="16"
+        rx="4" fill="rgb(153,30,184)">
+    <title>2026-07-11: 8 ACs</title>
+  </rect>
+  <rect id="c_36_1" x="716" y="71" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2026-07-12: 3 ACs</title>
+  </rect>
+  <rect id="c_36_2" x="716" y="90" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-07-13: 6 ACs</title>
+  </rect>
+  <rect id="c_36_3" x="716" y="109" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-07-14: 6 ACs</title>
+  </rect>
+  <rect id="c_36_4" x="716" y="128" width="16" height="16"
+        rx="4" fill="rgb(153,30,184)">
+    <title>2026-07-15: 8 ACs</title>
+  </rect>
+  <rect id="c_36_5" x="716" y="147" width="16" height="16"
+        rx="4" fill="rgb(182,22,168)">
+    <title>2026-07-16: 15 ACs</title>
+  </rect>
+  <rect id="c_36_6" x="716" y="166" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-07-17: 5 ACs</title>
+  </rect>
+  <rect id="c_37_0" x="735" y="52" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-07-18: 1 ACs</title>
+  </rect>
+  <rect id="c_37_1" x="735" y="71" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-07-19: 4 ACs</title>
+  </rect>
+  <rect id="c_37_2" x="735" y="90" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-07-20: 1 ACs</title>
+  </rect>
+  <rect id="c_37_3" x="735" y="109" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-07-21: 5 ACs</title>
+  </rect>
+  <rect id="c_37_4" x="735" y="128" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-07-22: 6 ACs</title>
+  </rect>
+  <rect id="c_37_5" x="735" y="147" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2026-07-23: 3 ACs</title>
+  </rect>
+  <rect id="c_37_6" x="735" y="166" width="16" height="16"
+        rx="4" fill="rgb(158,29,182)">
+    <title>2026-07-24: 9 ACs</title>
+  </rect>
+  <rect id="c_38_0" x="754" y="52" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-07-25: 1 ACs</title>
+  </rect>
+  <rect id="c_38_1" x="754" y="71" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-07-26: 10 ACs</title>
+  </rect>
+  <rect id="c_38_2" x="754" y="90" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-07-27: 1 ACs</title>
+  </rect>
+  <rect id="c_38_3" x="754" y="109" width="16" height="16"
+        rx="4" fill="rgb(133,36,195)">
+    <title>2026-07-28: 3 ACs</title>
+  </rect>
+  <rect id="c_38_4" x="754" y="128" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-07-29: 6 ACs</title>
+  </rect>
+  <rect id="c_38_5" x="754" y="147" width="16" height="16"
+        rx="4" fill="rgb(153,30,184)">
+    <title>2026-07-30: 8 ACs</title>
+  </rect>
+  <rect id="c_38_6" x="754" y="166" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-07-31: 4 ACs</title>
+  </rect>
+  <rect id="c_39_0" x="773" y="52" width="16" height="16"
+        rx="4" fill="rgb(182,22,168)">
+    <title>2026-08-01: 15 ACs</title>
+  </rect>
+  <rect id="c_39_1" x="773" y="71" width="16" height="16"
+        rx="4" fill="rgb(166,27,177)">
+    <title>2026-08-02: 11 ACs</title>
+  </rect>
+  <rect id="c_39_2" x="773" y="90" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-08-03: 6 ACs</title>
+  </rect>
+  <rect id="c_39_3" x="773" y="109" width="16" height="16"
+        rx="4" fill="rgb(170,25,175)">
+    <title>2026-08-04: 12 ACs</title>
+  </rect>
+  <rect id="c_39_4" x="773" y="128" width="16" height="16"
+        rx="4" fill="rgb(153,30,184)">
+    <title>2026-08-05: 8 ACs</title>
+  </rect>
+  <rect id="c_39_5" x="773" y="147" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-08-06: 4 ACs</title>
+  </rect>
+  <rect id="c_39_6" x="773" y="166" width="16" height="16"
+        rx="4" fill="rgb(149,32,186)">
+    <title>2026-08-07: 7 ACs</title>
+  </rect>
+  <rect id="c_40_0" x="792" y="52" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-08-08: 6 ACs</title>
+  </rect>
+  <rect id="c_40_1" x="792" y="71" width="16" height="16"
+        rx="4" fill="rgb(194,18,162)">
+    <title>2026-08-09: 18 ACs</title>
+  </rect>
+  <rect id="c_40_2" x="792" y="90" width="16" height="16"
+        rx="4" fill="rgb(149,32,186)">
+    <title>2026-08-10: 7 ACs</title>
+  </rect>
+  <rect id="c_40_3" x="792" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-08-11: 0 ACs</title>
+  </rect>
+  <rect id="c_40_4" x="792" y="128" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-08-12: 2 ACs</title>
+  </rect>
+  <rect id="c_40_5" x="792" y="147" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-08-13: 2 ACs</title>
+  </rect>
+  <rect id="c_40_6" x="792" y="166" width="16" height="16"
+        rx="4" fill="rgb(149,32,186)">
+    <title>2026-08-14: 7 ACs</title>
+  </rect>
+  <rect id="c_41_0" x="811" y="52" width="16" height="16"
+        rx="4" fill="rgb(166,27,177)">
+    <title>2026-08-15: 11 ACs</title>
+  </rect>
+  <rect id="c_41_1" x="811" y="71" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-08-16: 2 ACs</title>
+  </rect>
+  <rect id="c_41_2" x="811" y="90" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-08-17: 4 ACs</title>
+  </rect>
+  <rect id="c_41_3" x="811" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-08-18: 0 ACs</title>
+  </rect>
+  <rect id="c_41_4" x="811" y="128" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-08-19: 6 ACs</title>
+  </rect>
+  <rect id="c_41_5" x="811" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-08-20: 0 ACs</title>
+  </rect>
+  <rect id="c_41_6" x="811" y="166" width="16" height="16"
+        rx="4" fill="rgb(149,32,186)">
+    <title>2026-08-21: 7 ACs</title>
+  </rect>
+  <rect id="c_42_0" x="830" y="52" width="16" height="16"
+        rx="4" fill="rgb(158,29,182)">
+    <title>2026-08-22: 9 ACs</title>
+  </rect>
+  <rect id="c_42_1" x="830" y="71" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-08-23: 2 ACs</title>
+  </rect>
+  <rect id="c_42_2" x="830" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-08-24: 0 ACs</title>
+  </rect>
+  <rect id="c_42_3" x="830" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-08-25: 0 ACs</title>
+  </rect>
+  <rect id="c_42_4" x="830" y="128" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-08-26: 1 ACs</title>
+  </rect>
+  <rect id="c_42_5" x="830" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-08-27: 0 ACs</title>
+  </rect>
+  <rect id="c_42_6" x="830" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-08-28: 0 ACs</title>
+  </rect>
+  <rect id="c_43_0" x="849" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-08-29: 0 ACs</title>
+  </rect>
+  <rect id="c_43_1" x="849" y="71" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-08-30: 1 ACs</title>
+  </rect>
+  <rect id="c_43_2" x="849" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-08-31: 0 ACs</title>
+  </rect>
+  <rect id="c_43_3" x="849" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-09-01: 0 ACs</title>
+  </rect>
+  <rect id="c_43_4" x="849" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-09-02: 0 ACs</title>
+  </rect>
+  <rect id="c_43_5" x="849" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-09-03: 0 ACs</title>
+  </rect>
+  <rect id="c_43_6" x="849" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-09-04: 0 ACs</title>
+  </rect>
+  <rect id="c_44_0" x="868" y="52" width="16" height="16"
+        rx="4" fill="rgb(149,32,186)">
+    <title>2026-09-05: 7 ACs</title>
+  </rect>
+  <rect id="c_44_1" x="868" y="71" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-09-06: 1 ACs</title>
+  </rect>
+  <rect id="c_44_2" x="868" y="90" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-09-07: 2 ACs</title>
+  </rect>
+  <rect id="c_44_3" x="868" y="109" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-09-08: 2 ACs</title>
+  </rect>
+  <rect id="c_44_4" x="868" y="128" width="16" height="16"
+        rx="4" fill="rgb(166,27,177)">
+    <title>2026-09-09: 11 ACs</title>
+  </rect>
+  <rect id="c_44_5" x="868" y="147" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-09-10: 2 ACs</title>
+  </rect>
+  <rect id="c_44_6" x="868" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-09-11: 0 ACs</title>
+  </rect>
+  <rect id="c_45_0" x="887" y="52" width="16" height="16"
+        rx="4" fill="rgb(178,23,171)">
+    <title>2026-09-12: 14 ACs</title>
+  </rect>
+  <rect id="c_45_1" x="887" y="71" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-09-13: 5 ACs</title>
+  </rect>
+  <rect id="c_45_2" x="887" y="90" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-09-14: 10 ACs</title>
+  </rect>
+  <rect id="c_45_3" x="887" y="109" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-09-15: 2 ACs</title>
+  </rect>
+  <rect id="c_45_4" x="887" y="128" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-09-16: 2 ACs</title>
+  </rect>
+  <rect id="c_45_5" x="887" y="147" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-09-17: 4 ACs</title>
+  </rect>
+  <rect id="c_45_6" x="887" y="166" width="16" height="16"
+        rx="4" fill="rgb(137,35,193)">
+    <title>2026-09-18: 4 ACs</title>
+  </rect>
+  <rect id="c_46_0" x="906" y="52" width="16" height="16"
+        rx="4" fill="rgb(149,32,186)">
+    <title>2026-09-19: 7 ACs</title>
+  </rect>
+  <rect id="c_46_1" x="906" y="71" width="16" height="16"
+        rx="4" fill="rgb(162,28,180)">
+    <title>2026-09-20: 10 ACs</title>
+  </rect>
+  <rect id="c_46_2" x="906" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-09-21: 0 ACs</title>
+  </rect>
+  <rect id="c_46_3" x="906" y="109" width="16" height="16"
+        rx="4" fill="rgb(145,33,189)">
+    <title>2026-09-22: 6 ACs</title>
+  </rect>
+  <rect id="c_46_4" x="906" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-09-23: 0 ACs</title>
+  </rect>
+  <rect id="c_46_5" x="906" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-09-24: 0 ACs</title>
+  </rect>
+  <rect id="c_46_6" x="906" y="166" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-09-25: 2 ACs</title>
+  </rect>
+  <rect id="c_47_0" x="925" y="52" width="16" height="16"
+        rx="4" fill="rgb(149,32,186)">
+    <title>2026-09-26: 7 ACs</title>
+  </rect>
+  <rect id="c_47_1" x="925" y="71" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-09-27: 2 ACs</title>
+  </rect>
+  <rect id="c_47_2" x="925" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-09-28: 0 ACs</title>
+  </rect>
+  <rect id="c_47_3" x="925" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-09-29: 0 ACs</title>
+  </rect>
+  <rect id="c_47_4" x="925" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-09-30: 0 ACs</title>
+  </rect>
+  <rect id="c_47_5" x="925" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-01: 0 ACs</title>
+  </rect>
+  <rect id="c_47_6" x="925" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-02: 0 ACs</title>
+  </rect>
+  <rect id="c_48_0" x="944" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-03: 0 ACs</title>
+  </rect>
+  <rect id="c_48_1" x="944" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-04: 0 ACs</title>
+  </rect>
+  <rect id="c_48_2" x="944" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-05: 0 ACs</title>
+  </rect>
+  <rect id="c_48_3" x="944" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-06: 0 ACs</title>
+  </rect>
+  <rect id="c_48_4" x="944" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-07: 0 ACs</title>
+  </rect>
+  <rect id="c_48_5" x="944" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-08: 0 ACs</title>
+  </rect>
+  <rect id="c_48_6" x="944" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-09: 0 ACs</title>
+  </rect>
+  <rect id="c_49_0" x="963" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-10: 0 ACs</title>
+  </rect>
+  <rect id="c_49_1" x="963" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-11: 0 ACs</title>
+  </rect>
+  <rect id="c_49_2" x="963" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-12: 0 ACs</title>
+  </rect>
+  <rect id="c_49_3" x="963" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-13: 0 ACs</title>
+  </rect>
+  <rect id="c_49_4" x="963" y="128" width="16" height="16"
+        rx="4" fill="rgb(129,38,198)">
+    <title>2026-10-14: 2 ACs</title>
+  </rect>
+  <rect id="c_49_5" x="963" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-15: 0 ACs</title>
+  </rect>
+  <rect id="c_49_6" x="963" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-16: 0 ACs</title>
+  </rect>
+  <rect id="c_50_0" x="982" y="52" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-17: 0 ACs</title>
+  </rect>
+  <rect id="c_50_1" x="982" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-18: 0 ACs</title>
+  </rect>
+  <rect id="c_50_2" x="982" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-19: 0 ACs</title>
+  </rect>
+  <rect id="c_50_3" x="982" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-20: 0 ACs</title>
+  </rect>
+  <rect id="c_50_4" x="982" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-21: 0 ACs</title>
+  </rect>
+  <rect id="c_50_5" x="982" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-22: 0 ACs</title>
+  </rect>
+  <rect id="c_50_6" x="982" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-23: 0 ACs</title>
+  </rect>
+  <rect id="c_51_0" x="1001" y="52" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-10-24: 5 ACs</title>
+  </rect>
+  <rect id="c_51_1" x="1001" y="71" width="16" height="16"
+        rx="4" fill="rgb(158,29,182)">
+    <title>2026-10-25: 9 ACs</title>
+  </rect>
+  <rect id="c_51_2" x="1001" y="90" width="16" height="16"
+        rx="4" fill="rgb(125,39,200)">
+    <title>2026-10-26: 1 ACs</title>
+  </rect>
+  <rect id="c_51_3" x="1001" y="109" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-27: 0 ACs</title>
+  </rect>
+  <rect id="c_51_4" x="1001" y="128" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-28: 0 ACs</title>
+  </rect>
+  <rect id="c_51_5" x="1001" y="147" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-29: 0 ACs</title>
+  </rect>
+  <rect id="c_51_6" x="1001" y="166" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-10-30: 0 ACs</title>
+  </rect>
+  <rect id="c_52_0" x="1020" y="52" width="16" height="16"
+        rx="4" fill="rgb(141,34,191)">
+    <title>2026-10-31: 5 ACs</title>
+  </rect>
+  <rect id="c_52_1" x="1020" y="71" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-11-01: 0 ACs</title>
+  </rect>
+  <rect id="c_52_2" x="1020" y="90" width="16" height="16"
+        rx="4" fill="#ebedf0">
+    <title>2026-11-02: 0 ACs</title>
+  </rect>
+
+  <!-- Hidden motion path for snake -->
+  <path id="snakeMotionPath" d="M 40 60 L 40 79 L 40 98 L 40 117 L 40 136 L 40 155 L 40 174 L 59 174 L 59 155 L 59 136 L 59 117 L 59 98 L 59 79 L 59 60 L 78 60 L 78 79 L 78 98 L 78 117 L 78 136 L 78 155 L 78 174 L 97 174 L 97 155 L 97 136 L 97 117 L 97 98 L 97 79 L 97 60 L 116 60 L 116 79 L 116 98 L 116 117 L 116 136 L 116 155 L 116 174 L 135 174 L 135 155 L 135 136 L 135 117 L 135 98 L 135 79 L 135 60 L 154 60 L 154 79 L 154 98 L 154 117 L 154 136 L 154 155 L 154 174 L 173 174 L 173 155 L 173 136 L 173 117 L 173 98 L 173 79 L 173 60 L 192 60 L 192 79 L 192 98 L 192 117 L 192 136 L 192 155 L 192 174 L 211 174 L 211 155 L 211 136 L 211 117 L 211 98 L 211 79 L 211 60 L 230 60 L 230 79 L 230 98 L 230 117 L 230 136 L 230 155 L 230 174 L 249 174 L 249 155 L 249 136 L 249 117 L 249 98 L 249 79 L 249 60 L 268 60 L 268 79 L 268 98 L 268 117 L 268 136 L 268 155 L 268 174 L 287 174 L 287 155 L 287 136 L 287 117 L 287 98 L 287 79 L 287 60 L 306 60 L 306 79 L 306 98 L 306 117 L 306 136 L 306 155 L 306 174 L 325 174 L 325 155 L 325 136 L 325 117 L 325 98 L 325 79 L 325 60 L 344 60 L 344 79 L 344 98 L 344 117 L 344 136 L 344 155 L 344 174 L 363 174 L 363 155 L 363 136 L 363 117 L 363 98 L 363 79 L 363 60 L 382 60 L 382 79 L 382 98 L 382 117 L 382 136 L 382 155 L 382 174 L 401 174 L 401 155 L 401 136 L 401 117 L 401 98 L 401 79 L 401 60 L 420 60 L 420 79 L 420 98 L 420 117 L 420 136 L 420 155 L 420 174 L 439 174 L 439 155 L 439 136 L 439 117 L 439 98 L 439 79 L 439 60 L 458 60 L 458 79 L 458 98 L 458 117 L 458 136 L 458 155 L 458 174 L 477 174 L 477 155 L 477 136 L 477 117 L 477 98 L 477 79 L 477 60 L 496 60 L 496 79 L 496 98 L 496 117 L 496 136 L 496 155 L 496 174 L 515 174 L 515 155 L 515 136 L 515 117 L 515 98 L 515 79 L 515 60 L 534 60 L 534 79 L 534 98 L 534 117 L 534 136 L 534 155 L 534 174 L 553 174 L 553 155 L 553 136 L 553 117 L 553 98 L 553 79 L 553 60 L 572 60 L 572 79 L 572 98 L 572 117 L 572 136 L 572 155 L 572 174 L 591 174 L 591 155 L 591 136 L 591 117 L 591 98 L 591 79 L 591 60 L 610 60 L 610 79 L 610 98 L 610 117 L 610 136 L 610 155 L 610 174 L 629 174 L 629 155 L 629 136 L 629 117 L 629 98 L 629 79 L 629 60 L 648 60 L 648 79 L 648 98 L 648 117 L 648 136 L 648 155 L 648 174 L 667 174 L 667 155 L 667 136 L 667 117 L 667 98 L 667 79 L 667 60 L 686 60 L 686 79 L 686 98 L 686 117 L 686 136 L 686 155 L 686 174 L 705 174 L 705 155 L 705 136 L 705 117 L 705 98 L 705 79 L 705 60 L 724 60 L 724 79 L 724 98 L 724 117 L 724 136 L 724 155 L 724 174 L 743 174 L 743 155 L 743 136 L 743 117 L 743 98 L 743 79 L 743 60 L 762 60 L 762 79 L 762 98 L 762 117 L 762 136 L 762 155 L 762 174 L 781 174 L 781 155 L 781 136 L 781 117 L 781 98 L 781 79 L 781 60 L 800 60 L 800 79 L 800 98 L 800 117 L 800 136 L 800 155 L 800 174 L 819 174 L 819 155 L 819 136 L 819 117 L 819 98 L 819 79 L 819 60 L 838 60 L 838 79 L 838 98 L 838 117 L 838 136 L 838 155 L 838 174 L 857 174 L 857 155 L 857 136 L 857 117 L 857 98 L 857 79 L 857 60 L 876 60 L 876 79 L 876 98 L 876 117 L 876 136 L 876 155 L 876 174 L 895 174 L 895 155 L 895 136 L 895 117 L 895 98 L 895 79 L 895 60 L 914 60 L 914 79 L 914 98 L 914 117 L 914 136 L 914 155 L 914 174 L 933 174 L 933 155 L 933 136 L 933 117 L 933 98 L 933 79 L 933 60 L 952 60 L 952 79 L 952 98 L 952 117 L 952 136 L 952 155 L 952 174 L 971 174 L 971 155 L 971 136 L 971 117 L 971 98 L 971 79 L 971 60 L 990 60 L 990 79 L 990 98 L 990 117 L 990 136 L 990 155 L 990 174 L 1009 174 L 1009 155 L 1009 136 L 1009 117 L 1009 98 L 1009 79 L 1009 60 L 1028 60 L 1028 79 L 1028 98" fill="none" stroke="none" visibility="hidden"/>
+
+  <!-- Snake trail (back to front) -->
+  
+  <circle r="4" fill="#00dfd8" opacity="0.9">
+    <filter id="trailGlow8" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <animateMotion dur="18s" begin="-0.39s" repeatCount="indefinite"
+                   calcMode="linear" keyTimes="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000" keyPoints="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000">
+      <mpath href="#snakeMotionPath"/>
+    </animateMotion>
+  </circle>
+  <circle r="4.5" fill="#ff0080" opacity="0.7875">
+    <filter id="trailGlow7" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5999999999999999" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <animateMotion dur="18s" begin="-0.34s" repeatCount="indefinite"
+                   calcMode="linear" keyTimes="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000" keyPoints="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000">
+      <mpath href="#snakeMotionPath"/>
+    </animateMotion>
+  </circle>
+  <circle r="5" fill="#ff0080" opacity="0.675">
+    <filter id="trailGlow6" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.7999999999999998" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <animateMotion dur="18s" begin="-0.29s" repeatCount="indefinite"
+                   calcMode="linear" keyTimes="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000" keyPoints="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000">
+      <mpath href="#snakeMotionPath"/>
+    </animateMotion>
+  </circle>
+  <circle r="5.5" fill="#ff0080" opacity="0.5625">
+    <filter id="trailGlow5" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <animateMotion dur="18s" begin="-0.25s" repeatCount="indefinite"
+                   calcMode="linear" keyTimes="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000" keyPoints="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000">
+      <mpath href="#snakeMotionPath"/>
+    </animateMotion>
+  </circle>
+  <circle r="6" fill="#ff0080" opacity="0.45">
+    <filter id="trailGlow4" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <animateMotion dur="18s" begin="-0.20s" repeatCount="indefinite"
+                   calcMode="linear" keyTimes="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000" keyPoints="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000">
+      <mpath href="#snakeMotionPath"/>
+    </animateMotion>
+  </circle>
+  <circle r="6.5" fill="#ff0080" opacity="0.3375">
+    <filter id="trailGlow3" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <animateMotion dur="18s" begin="-0.15s" repeatCount="indefinite"
+                   calcMode="linear" keyTimes="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000" keyPoints="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000">
+      <mpath href="#snakeMotionPath"/>
+    </animateMotion>
+  </circle>
+  <circle r="7" fill="#ff0080" opacity="0.225">
+    <filter id="trailGlow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <animateMotion dur="18s" begin="-0.10s" repeatCount="indefinite"
+                   calcMode="linear" keyTimes="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000" keyPoints="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000">
+      <mpath href="#snakeMotionPath"/>
+    </animateMotion>
+  </circle>
+  <circle r="7.5" fill="#ff0080" opacity="0.1125">
+    <filter id="trailGlow1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <animateMotion dur="18s" begin="-0.05s" repeatCount="indefinite"
+                   calcMode="linear" keyTimes="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000" keyPoints="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000">
+      <mpath href="#snakeMotionPath"/>
+    </animateMotion>
+  </circle>
+
+  <!-- Snake head -->
+  
+  <!-- Snake head -->
+  <g id="snakeHead">
+    <animateMotion dur="18s" repeatCount="indefinite"
+                   calcMode="linear" keyTimes="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000" keyPoints="0.0000;0.0027;0.0055;0.0082;0.0109;0.0137;0.0164;0.0191;0.0219;0.0246;0.0273;0.0301;0.0328;0.0355;0.0383;0.0410;0.0437;0.0464;0.0492;0.0519;0.0546;0.0574;0.0601;0.0628;0.0656;0.0683;0.0710;0.0738;0.0765;0.0792;0.0820;0.0847;0.0874;0.0902;0.0929;0.0956;0.0984;0.1011;0.1038;0.1066;0.1093;0.1120;0.1148;0.1175;0.1202;0.1230;0.1257;0.1284;0.1311;0.1339;0.1366;0.1393;0.1421;0.1448;0.1475;0.1503;0.1530;0.1557;0.1585;0.1612;0.1639;0.1667;0.1694;0.1721;0.1749;0.1776;0.1803;0.1831;0.1858;0.1885;0.1913;0.1940;0.1967;0.1995;0.2022;0.2049;0.2077;0.2104;0.2131;0.2158;0.2186;0.2213;0.2240;0.2268;0.2295;0.2322;0.2350;0.2377;0.2404;0.2432;0.2459;0.2486;0.2514;0.2541;0.2568;0.2596;0.2623;0.2650;0.2678;0.2705;0.2732;0.2760;0.2787;0.2814;0.2842;0.2869;0.2896;0.2923;0.2951;0.2978;0.3005;0.3033;0.3060;0.3087;0.3115;0.3142;0.3169;0.3197;0.3224;0.3251;0.3279;0.3306;0.3333;0.3361;0.3388;0.3415;0.3443;0.3470;0.3497;0.3525;0.3552;0.3579;0.3607;0.3634;0.3661;0.3689;0.3716;0.3743;0.3770;0.3798;0.3825;0.3852;0.3880;0.3907;0.3934;0.3962;0.3989;0.4016;0.4044;0.4071;0.4098;0.4126;0.4153;0.4180;0.4208;0.4235;0.4262;0.4290;0.4317;0.4344;0.4372;0.4399;0.4426;0.4454;0.4481;0.4508;0.4536;0.4563;0.4590;0.4617;0.4645;0.4672;0.4699;0.4727;0.4754;0.4781;0.4809;0.4836;0.4863;0.4891;0.4918;0.4945;0.4973;0.5000;0.5027;0.5055;0.5082;0.5109;0.5137;0.5164;0.5191;0.5219;0.5246;0.5273;0.5301;0.5328;0.5355;0.5383;0.5410;0.5437;0.5464;0.5492;0.5519;0.5546;0.5574;0.5601;0.5628;0.5656;0.5683;0.5710;0.5738;0.5765;0.5792;0.5820;0.5847;0.5874;0.5902;0.5929;0.5956;0.5984;0.6011;0.6038;0.6066;0.6093;0.6120;0.6148;0.6175;0.6202;0.6230;0.6257;0.6284;0.6311;0.6339;0.6366;0.6393;0.6421;0.6448;0.6475;0.6503;0.6530;0.6557;0.6585;0.6612;0.6639;0.6667;0.6694;0.6721;0.6749;0.6776;0.6803;0.6831;0.6858;0.6885;0.6913;0.6940;0.6967;0.6995;0.7022;0.7049;0.7077;0.7104;0.7131;0.7158;0.7186;0.7213;0.7240;0.7268;0.7295;0.7322;0.7350;0.7377;0.7404;0.7432;0.7459;0.7486;0.7514;0.7541;0.7568;0.7596;0.7623;0.7650;0.7678;0.7705;0.7732;0.7760;0.7787;0.7814;0.7842;0.7869;0.7896;0.7923;0.7951;0.7978;0.8005;0.8033;0.8060;0.8087;0.8115;0.8142;0.8169;0.8197;0.8224;0.8251;0.8279;0.8306;0.8333;0.8361;0.8388;0.8415;0.8443;0.8470;0.8497;0.8525;0.8552;0.8579;0.8607;0.8634;0.8661;0.8689;0.8716;0.8743;0.8770;0.8798;0.8825;0.8852;0.8880;0.8907;0.8934;0.8962;0.8989;0.9016;0.9044;0.9071;0.9098;0.9126;0.9153;0.9180;0.9208;0.9235;0.9262;0.9290;0.9317;0.9344;0.9372;0.9399;0.9426;0.9454;0.9481;0.9508;0.9536;0.9563;0.9590;0.9617;0.9645;0.9672;0.9699;0.9727;0.9754;0.9781;0.9809;0.9836;0.9863;0.9891;0.9918;0.9945;0.9973;1.0000">
+      <mpath href="#snakeMotionPath"/>
+    </animateMotion>
+    <circle r="8" fill="#00dfd8">
+      <filter id="headGlow" x="-100%" y="-100%" width="300%" height="300%">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="b"/>
+        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+    </circle>
+    <!-- Eyes -->
+    <circle cx="-2" cy="-3" r="2" fill="#0d1117"/>
+    <circle cx="2" cy="-3" r="2" fill="#0d1117"/>
+    <circle cx="-1.5" cy="-3.2" r="0.8" fill="#ffffff"/>
+    <circle cx="2.5" cy="-3.2" r="0.8" fill="#ffffff"/>
+  </g>
+
+  <!-- Legend -->
+  
+  <text x="32" y="200" font-family="'Courier New',Courier,monospace"
+        font-size="9" fill="#666">Less</text>
+  
+  <rect x="68" y="190" width="16" height="16"
+        rx="4" fill="#ebedf0"/>
+  <rect x="86" y="190" width="16" height="16"
+        rx="4" fill="rgb(158,29,182)"/>
+  <rect x="104" y="190" width="16" height="16"
+        rx="4" fill="rgb(194,18,162)"/>
+  <rect x="122" y="190" width="16" height="16"
+        rx="4" fill="rgb(231,7,141)"/>
+  <rect x="140" y="190" width="16" height="16"
+        rx="4" fill="rgb(255,0,128)"/>
+  <text x="162" y="200"
+        font-family="'Courier New',Courier,monospace" font-size="9" fill="#666">More</text>
+
+  <!-- Counter -->
+  
+  <!-- AC counter -->
+  <text x="528" y="214" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="11" fill="#666">
+    ACs eaten: 1,567 · Sources: Codeforces + LeetCode + AtCoder · last 52 weeks
+  </text>
+</svg>

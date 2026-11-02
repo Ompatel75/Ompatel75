@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120"
+     width="1200" height="120" role="img" aria-label="Competitive Programming Standings">
+  <title>CP Standings — Om Patel</title>
+  <defs>
+    <style>
+      @media (prefers-reduced-motion: reduce) { animate { display: none; } }
+    </style>
+  </defs>
+  <rect width="1200" height="120" fill="#0d1117"/>
+  
+  <!-- CODEFORCES card -->
+  <rect x="16" y="10" width="280" height="100" rx="6"
+        fill="#161b22" stroke="#03a89e" stroke-width="1.5"/>
+  <!-- Glow top border -->
+  <rect x="16" y="10" width="280" height="3" rx="2" fill="#03a89e" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Platform name -->
+  <text x="156" y="30" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="10"
+        fill="#03a89e" letter-spacing="2" font-weight="bold">CODEFORCES</text>
+  <!-- Handle -->
+  <text x="156" y="44" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="10"
+        fill="#8b949e">@Omm_Patel</text>
+  <!-- Rating (large) -->
+  <text x="156" y="70" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="24"
+        fill="#03a89e" font-weight="bold">1440</text>
+  <!-- Badge -->
+  <rect x="126" y="75" width="60" height="15" rx="3"
+        fill="#03a89e" opacity="0.15"/>
+  <text x="156" y="86" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="9"
+        fill="#03a89e" font-weight="bold">EXPERT</text>
+  <!-- Solved / extra -->
+  <text x="26" y="104" font-family="'Courier New',Courier,monospace"
+        font-size="9" fill="#8b949e">solved: 1234</text>
+  <text x="286" y="104" text-anchor="end"
+        font-family="'Courier New',Courier,monospace" font-size="9" fill="#8b949e">max 1640</text>
+  <!-- LEETCODE card -->
+  <rect x="312" y="10" width="280" height="100" rx="6"
+        fill="#161b22" stroke="#ff0080" stroke-width="1.5"/>
+  <!-- Glow top border -->
+  <rect x="312" y="10" width="280" height="3" rx="2" fill="#ff0080" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Platform name -->
+  <text x="452" y="30" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="10"
+        fill="#ff0080" letter-spacing="2" font-weight="bold">LEETCODE</text>
+  <!-- Handle -->
+  <text x="452" y="44" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="10"
+        fill="#8b949e">@om_patel11</text>
+  <!-- Rating (large) -->
+  <text x="452" y="70" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="24"
+        fill="#ff0080" font-weight="bold">2051</text>
+  <!-- Badge -->
+  <rect x="422" y="75" width="60" height="15" rx="3"
+        fill="#ff0080" opacity="0.15"/>
+  <text x="452" y="86" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="9"
+        fill="#ff0080" font-weight="bold">KNIGHT</text>
+  <!-- Solved / extra -->
+  <text x="322" y="104" font-family="'Courier New',Courier,monospace"
+        font-size="9" fill="#8b949e">solved: 504</text>
+  <text x="582" y="104" text-anchor="end"
+        font-family="'Courier New',Courier,monospace" font-size="9" fill="#8b949e">71 hard</text>
+  <!-- CODECHEF card -->
+  <rect x="608" y="10" width="280" height="100" rx="6"
+        fill="#161b22" stroke="#f5a623" stroke-width="1.5"/>
+  <!-- Glow top border -->
+  <rect x="608" y="10" width="280" height="3" rx="2" fill="#f5a623" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Platform name -->
+  <text x="748" y="30" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="10"
+        fill="#f5a623" letter-spacing="2" font-weight="bold">CODECHEF</text>
+  <!-- Handle -->
+  <text x="748" y="44" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="10"
+        fill="#8b949e">@om_patel_007</text>
+  <!-- Rating (large) -->
+  <text x="748" y="70" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="24"
+        fill="#f5a623" font-weight="bold">—</text>
+  <!-- Badge -->
+  <rect x="718" y="75" width="60" height="15" rx="3"
+        fill="#f5a623" opacity="0.15"/>
+  <text x="748" y="86" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="9"
+        fill="#f5a623" font-weight="bold">3★</text>
+  <!-- Solved / extra -->
+  <text x="618" y="104" font-family="'Courier New',Courier,monospace"
+        font-size="9" fill="#8b949e">solved: —</text>
+  <text x="878" y="104" text-anchor="end"
+        font-family="'Courier New',Courier,monospace" font-size="9" fill="#8b949e">no API</text>
+  <!-- ATCODER card -->
+  <rect x="904" y="10" width="280" height="100" rx="6"
+        fill="#161b22" stroke="#00C0C0" stroke-width="1.5"/>
+  <!-- Glow top border -->
+  <rect x="904" y="10" width="280" height="3" rx="2" fill="#00C0C0" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Platform name -->
+  <text x="1044" y="30" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="10"
+        fill="#00C0C0" letter-spacing="2" font-weight="bold">ATCODER</text>
+  <!-- Handle -->
+  <text x="1044" y="44" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="10"
+        fill="#8b949e">@Om_patel07</text>
+  <!-- Rating (large) -->
+  <text x="1044" y="70" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="24"
+        fill="#00C0C0" font-weight="bold">1207</text>
+  <!-- Badge -->
+  <rect x="1014" y="75" width="60" height="15" rx="3"
+        fill="#00C0C0" opacity="0.15"/>
+  <text x="1044" y="86" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="9"
+        fill="#00C0C0" font-weight="bold">CYAN</text>
+  <!-- Solved / extra -->
+  <text x="914" y="104" font-family="'Courier New',Courier,monospace"
+        font-size="9" fill="#8b949e">solved: 76</text>
+  <text x="1174" y="104" text-anchor="end"
+        font-family="'Courier New',Courier,monospace" font-size="9" fill="#8b949e">20 contests</text>
+  <!-- Total solved counter -->
+  <text x="600" y="116" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="10" fill="#8b949e">
+    1300+ problems solved across all platforms
+  </text>
+</svg>

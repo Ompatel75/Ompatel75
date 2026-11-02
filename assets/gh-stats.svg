@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 140"
+     width="1100" height="140" role="img" aria-label="GitHub Stats">
+  <title>GitHub Stats — Om Patel</title>
+  <defs>
+    <style>
+      @media (prefers-reduced-motion: reduce) { animate { display: none; } }
+    </style>
+  </defs>
+  <rect width="1100" height="140" fill="#0d1117"/>
+  
+  <rect x="35" y="20" width="190" height="100" rx="6"
+        fill="#161b22" stroke="#7928ca" stroke-width="1" opacity="0.9"/>
+  <rect x="35" y="20" width="190" height="2" fill="#7928ca">
+    <animate attributeName="opacity" values="0.9;0.4;0.9" dur="3s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+  <text x="130" y="42" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="9"
+        fill="#7928ca" letter-spacing="2">REPOS</text>
+  <text x="130" y="85" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="30"
+        fill="#7928ca" font-weight="bold">—</text>
+  <rect x="245" y="20" width="190" height="100" rx="6"
+        fill="#161b22" stroke="#ff0080" stroke-width="1" opacity="0.9"/>
+  <rect x="245" y="20" width="190" height="2" fill="#ff0080">
+    <animate attributeName="opacity" values="0.9;0.4;0.9" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="340" y="42" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="9"
+        fill="#ff0080" letter-spacing="2">COMMITS</text>
+  <text x="340" y="85" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="30"
+        fill="#ff0080" font-weight="bold">—</text>
+  <rect x="455" y="20" width="190" height="100" rx="6"
+        fill="#161b22" stroke="#00dfd8" stroke-width="1" opacity="0.9"/>
+  <rect x="455" y="20" width="190" height="2" fill="#00dfd8">
+    <animate attributeName="opacity" values="0.9;0.4;0.9" dur="3s" begin="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="550" y="42" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="9"
+        fill="#00dfd8" letter-spacing="2">PRs</text>
+  <text x="550" y="85" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="30"
+        fill="#00dfd8" font-weight="bold">—</text>
+  <rect x="665" y="20" width="190" height="100" rx="6"
+        fill="#161b22" stroke="#f5a623" stroke-width="1" opacity="0.9"/>
+  <rect x="665" y="20" width="190" height="2" fill="#f5a623">
+    <animate attributeName="opacity" values="0.9;0.4;0.9" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="760" y="42" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="9"
+        fill="#f5a623" letter-spacing="2">STARS</text>
+  <text x="760" y="85" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="30"
+        fill="#f5a623" font-weight="bold">—</text>
+  <rect x="875" y="20" width="190" height="100" rx="6"
+        fill="#161b22" stroke="#39d353" stroke-width="1" opacity="0.9"/>
+  <rect x="875" y="20" width="190" height="2" fill="#39d353">
+    <animate attributeName="opacity" values="0.9;0.4;0.9" dur="3s" begin="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="970" y="42" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="9"
+        fill="#39d353" letter-spacing="2">FOLLOWERS</text>
+  <text x="970" y="85" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="30"
+        fill="#39d353" font-weight="bold">—</text>
+  
+  <text x="35" y="130"
+        font-family="'Courier New',Courier,monospace" font-size="8" fill="#8b949e"></text>
+</svg>
