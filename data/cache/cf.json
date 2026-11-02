@@ -1,0 +1,425 @@
+{
+  "fetchedAt": "2026-11-02T22:26:40.728Z",
+  "handle": "Omm_Patel",
+  "rating": 1440,
+  "maxRating": 1640,
+  "rank": "specialist",
+  "maxRank": "expert",
+  "contribution": 0,
+  "solvedCount": 1234,
+  "ratingHistory": [
+    {
+      "date": "2025-03-11",
+      "rating": 376,
+      "contestName": "Codeforces Round 1009 (Div. 3)",
+      "rank": 19852
+    },
+    {
+      "date": "2025-03-22",
+      "rating": 600,
+      "contestName": "Codeforces Round 1011 (Div. 2)",
+      "rank": 12953
+    },
+    {
+      "date": "2025-04-03",
+      "rating": 749,
+      "contestName": "Educational Codeforces Round 177 (Rated for Div. 2)",
+      "rank": 15739
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 903,
+      "contestName": "Codeforces Round 1016 (Div. 3)",
+      "rank": 10272
+    },
+    {
+      "date": "2025-04-13",
+      "rating": 1021,
+      "contestName": "Codeforces Round 1017 (Div. 4)",
+      "rank": 7929
+    },
+    {
+      "date": "2025-04-24",
+      "rating": 1113,
+      "contestName": "Codeforces Round 1020 (Div. 3)",
+      "rank": 5848
+    },
+    {
+      "date": "2025-05-24",
+      "rating": 1172,
+      "contestName": "Codeforces Round 1026 (Div. 2)",
+      "rank": 5900
+    },
+    {
+      "date": "2025-05-26",
+      "rating": 1157,
+      "contestName": "Codeforces Round 1027 (Div. 3)",
+      "rank": 9436
+    },
+    {
+      "date": "2025-05-31",
+      "rating": 1154,
+      "contestName": "Codeforces Round 1028 (Div. 2)",
+      "rank": 8734
+    },
+    {
+      "date": "2025-06-08",
+      "rating": 1219,
+      "contestName": "Codeforces Round 1029 (Div. 3)",
+      "rank": 3847
+    },
+    {
+      "date": "2025-06-12",
+      "rating": 1177,
+      "contestName": "Codeforces Round 1030 (Div. 2)",
+      "rank": 10890
+    },
+    {
+      "date": "2025-06-15",
+      "rating": 1212,
+      "contestName": "Codeforces Round 1031 (Div. 2)",
+      "rank": 4006
+    },
+    {
+      "date": "2025-07-05",
+      "rating": 1323,
+      "contestName": "Codeforces Round 1035 (Div. 2)",
+      "rank": 2708
+    },
+    {
+      "date": "2025-07-22",
+      "rating": 1275,
+      "contestName": "Educational Codeforces Round 181 (Rated for Div. 2)",
+      "rank": 9533
+    },
+    {
+      "date": "2025-07-27",
+      "rating": 1256,
+      "contestName": "Codeforces Round 1039 (Div. 2)",
+      "rank": 7502
+    },
+    {
+      "date": "2025-08-10",
+      "rating": 1313,
+      "contestName": "Codeforces Round 1042 (Div. 3)",
+      "rank": 2980
+    },
+    {
+      "date": "2025-08-28",
+      "rating": 1352,
+      "contestName": "Codeforces Round 1046 (Div. 2)",
+      "rank": 3539
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 1437,
+      "contestName": "Codeforces Round 1049 (Div. 2)",
+      "rank": 2131
+    },
+    {
+      "date": "2025-10-05",
+      "rating": 1404,
+      "contestName": "Codeforces Round 1056 (Div. 2)",
+      "rank": 4676
+    },
+    {
+      "date": "2025-10-10",
+      "rating": 1388,
+      "contestName": "Codeforces Round 1057 (Div. 2)",
+      "rank": 5386
+    },
+    {
+      "date": "2025-10-19",
+      "rating": 1437,
+      "contestName": "Codeforces Round 1060 (Div. 2)",
+      "rank": 2435
+    },
+    {
+      "date": "2025-11-10",
+      "rating": 1414,
+      "contestName": "Codeforces Round 1063 (Div. 2)",
+      "rank": 4344
+    },
+    {
+      "date": "2025-11-16",
+      "rating": 1490,
+      "contestName": "Codeforces Round 1064 (Div. 2)",
+      "rank": 1224
+    },
+    {
+      "date": "2025-11-29",
+      "rating": 1509,
+      "contestName": "Codeforces Round 1067 (Div. 2)",
+      "rank": 2235
+    },
+    {
+      "date": "2026-01-07",
+      "rating": 1562,
+      "contestName": "Hello 2026",
+      "rank": 2513
+    },
+    {
+      "date": "2026-01-12",
+      "rating": 1493,
+      "contestName": "Codeforces Round 1072 (Div. 3)",
+      "rank": 6812
+    },
+    {
+      "date": "2026-01-17",
+      "rating": 1571,
+      "contestName": "Codeforces Round 1073 (Div. 2)",
+      "rank": 939
+    },
+    {
+      "date": "2026-02-08",
+      "rating": 1526,
+      "contestName": "Codeforces Round 1078 (Div. 2)",
+      "rank": 3987
+    },
+    {
+      "date": "2026-02-15",
+      "rating": 1547,
+      "contestName": "Codeforces Round 1080 (Div. 3)",
+      "rank": 1468
+    },
+    {
+      "date": "2026-02-21",
+      "rating": 1557,
+      "contestName": "Codeforces Round 1081 (Div. 2)",
+      "rank": 2150
+    },
+    {
+      "date": "2026-03-08",
+      "rating": 1583,
+      "contestName": "Codeforces Round 1085 (Div. 1 + Div. 2)",
+      "rank": 1724
+    },
+    {
+      "date": "2026-03-14",
+      "rating": 1640,
+      "contestName": "Codeforces Round 1086 (Div. 2)",
+      "rank": 1149
+    },
+    {
+      "date": "2026-04-21",
+      "rating": 1572,
+      "contestName": "Educational Codeforces Round 189 (Rated for Div. 2)",
+      "rank": 4067
+    },
+    {
+      "date": "2026-05-16",
+      "rating": 1569,
+      "contestName": "Codeforces Round 1098 (Div. 2)",
+      "rank": 2472
+    },
+    {
+      "date": "2026-05-18",
+      "rating": 1534,
+      "contestName": "Educational Codeforces Round 190 (Rated for Div. 2)",
+      "rank": 3178
+    },
+    {
+      "date": "2026-05-21",
+      "rating": 1518,
+      "contestName": "Codeforces Round 1099 (Div. 2)",
+      "rank": 3515
+    },
+    {
+      "date": "2026-06-07",
+      "rating": 1512,
+      "contestName": "Codeforces Round 1102 (Div. 2)",
+      "rank": 3077
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 1467,
+      "contestName": "Educational Codeforces Round 191 (Rated for Div. 2)",
+      "rank": 5024
+    },
+    {
+      "date": "2026-06-12",
+      "rating": 1451,
+      "contestName": "Codeforces Round 1103 (Div. 3)",
+      "rank": 3335
+    },
+    {
+      "date": "2026-06-27",
+      "rating": 1451,
+      "contestName": "Codeforces Round 1105 (Div. 2)",
+      "rank": 2876
+    },
+    {
+      "date": "2026-06-28",
+      "rating": 1417,
+      "contestName": "Codeforces Round 1106 (Div. 2)",
+      "rank": 4202
+    },
+    {
+      "date": "2026-08-04",
+      "rating": 1571,
+      "contestName": "Codeforces Round 1114 (Div. 3)",
+      "rank": 191
+    },
+    {
+      "date": "2026-09-13",
+      "rating": 1532,
+      "contestName": "Codeforces Round 1121 (Div. 2)",
+      "rank": 2487
+    },
+    {
+      "date": "2026-09-25",
+      "rating": 1440,
+      "contestName": "Codeforces Round 1123 (Div. 2)",
+      "rank": 6714
+    }
+  ],
+  "dailyAC": {
+    "2026-09-25": 2,
+    "2026-09-22": 6,
+    "2026-09-20": 1,
+    "2026-09-19": 1,
+    "2026-09-18": 2,
+    "2026-09-17": 1,
+    "2026-09-16": 1,
+    "2026-09-14": 4,
+    "2026-09-13": 4,
+    "2026-09-10": 2,
+    "2026-09-09": 4,
+    "2026-09-08": 2,
+    "2026-09-06": 1,
+    "2026-09-05": 7,
+    "2026-08-30": 1,
+    "2026-08-17": 1,
+    "2026-08-15": 1,
+    "2026-08-14": 6,
+    "2026-08-12": 1,
+    "2026-08-10": 1,
+    "2026-08-09": 12,
+    "2026-08-07": 4,
+    "2026-08-06": 3,
+    "2026-08-05": 1,
+    "2026-08-04": 9,
+    "2026-08-03": 2,
+    "2026-08-02": 1,
+    "2026-08-01": 3,
+    "2026-07-31": 3,
+    "2026-07-30": 4,
+    "2026-07-19": 3,
+    "2026-07-16": 1,
+    "2026-07-15": 3,
+    "2026-07-13": 2,
+    "2026-07-07": 1,
+    "2026-07-06": 3,
+    "2026-07-01": 3,
+    "2026-06-30": 3,
+    "2026-06-28": 5,
+    "2026-06-27": 3,
+    "2026-06-25": 1,
+    "2026-06-19": 3,
+    "2026-06-16": 2,
+    "2026-06-15": 5,
+    "2026-06-12": 5,
+    "2026-06-11": 1,
+    "2026-06-10": 1,
+    "2026-06-09": 3,
+    "2026-06-07": 4,
+    "2026-06-01": 5,
+    "2026-05-25": 1,
+    "2026-05-24": 5,
+    "2026-05-21": 4,
+    "2026-05-19": 3,
+    "2026-05-18": 3,
+    "2026-05-16": 4,
+    "2026-05-14": 4,
+    "2026-05-13": 2,
+    "2026-04-21": 4,
+    "2026-04-20": 2,
+    "2026-04-19": 6,
+    "2026-04-18": 2,
+    "2026-04-17": 1,
+    "2026-04-16": 2,
+    "2026-04-14": 1,
+    "2026-04-07": 1,
+    "2026-04-05": 2,
+    "2026-04-03": 1,
+    "2026-04-02": 1,
+    "2026-04-01": 2,
+    "2026-03-31": 1,
+    "2026-03-30": 3,
+    "2026-03-29": 1,
+    "2026-03-28": 3,
+    "2026-03-27": 2,
+    "2026-03-26": 1,
+    "2026-03-24": 3,
+    "2026-03-21": 1,
+    "2026-03-19": 1,
+    "2026-03-16": 2,
+    "2026-03-14": 5,
+    "2026-03-12": 4,
+    "2026-03-10": 2,
+    "2026-03-09": 1,
+    "2026-03-08": 4,
+    "2026-03-06": 3,
+    "2026-03-05": 6,
+    "2026-03-04": 2,
+    "2026-02-25": 1,
+    "2026-02-24": 1,
+    "2026-02-23": 1,
+    "2026-02-21": 3,
+    "2026-02-15": 7,
+    "2026-02-14": 3,
+    "2026-02-13": 2,
+    "2026-02-12": 4,
+    "2026-02-08": 3,
+    "2026-02-07": 1,
+    "2026-02-06": 2,
+    "2026-02-01": 3,
+    "2026-01-31": 2,
+    "2026-01-27": 2,
+    "2026-01-26": 2,
+    "2026-01-25": 7,
+    "2026-01-24": 4,
+    "2026-01-23": 3,
+    "2026-01-21": 1,
+    "2026-01-18": 6,
+    "2026-01-17": 8,
+    "2026-01-16": 2,
+    "2026-01-15": 1,
+    "2026-01-13": 3,
+    "2026-01-12": 6,
+    "2026-01-11": 3,
+    "2026-01-09": 1,
+    "2026-01-08": 1,
+    "2026-01-07": 8,
+    "2026-01-06": 3,
+    "2026-01-05": 4,
+    "2026-01-03": 5,
+    "2026-01-02": 5,
+    "2026-01-01": 4,
+    "2025-12-31": 7,
+    "2025-12-30": 2,
+    "2025-12-29": 3,
+    "2025-12-28": 5,
+    "2025-12-25": 2,
+    "2025-12-24": 4,
+    "2025-12-23": 4,
+    "2025-12-22": 1,
+    "2025-12-20": 3,
+    "2025-12-19": 2,
+    "2025-12-18": 1,
+    "2025-11-29": 4,
+    "2025-11-26": 4,
+    "2025-11-24": 2,
+    "2025-11-19": 1,
+    "2025-11-16": 4,
+    "2025-11-15": 2,
+    "2025-11-14": 3,
+    "2025-11-12": 3,
+    "2025-11-11": 2,
+    "2025-11-10": 3,
+    "2025-11-09": 2,
+    "2025-11-05": 3,
+    "2025-11-04": 1,
+    "2025-11-03": 4
+  }
+}

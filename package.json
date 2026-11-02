@@ -1,0 +1,17 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "GitHub profile README asset generator for Ompatel75",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-all.js",
+    "fetch": "node scripts/build-all.js --fetch-only",
+    "generate": "node scripts/build-all.js --generate-only"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

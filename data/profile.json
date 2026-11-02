@@ -1,0 +1,85 @@
+{
+  "_comment": "Single source of truth — edit handles/links here, never in SVGs directly",
+  "name": "Om Patel",
+  "github": "Ompatel75",
+  "university": "DA-IICT (Dhirubhai Ambani University)",
+  "degree": "B.Tech ICT",
+  "batch": "2024-2028",
+  "location": "Gandhinagar, India",
+  "open_to": "SWE Internships",
+
+  "TODO_linkedin": "https://linkedin.com/in/TODO",
+  "TODO_email": "TODO@example.com",
+  "_note_contact": "Fill in linkedin and email above, then remove TODO_ prefix to enable contact buttons",
+
+  "handles": {
+    "codeforces": "Omm_Patel",
+    "leetcode": "om_patel11",
+    "codechef": "om_patel_007",
+    "atcoder": "Om_patel07"
+  },
+
+  "cp_stats_note": "All stats are fetched live from APIs — never hardcode here",
+
+  "projects": [
+    {
+      "label": "A",
+      "title": "Judgely",
+      "subtitle": "Online Judge + AI Tutor",
+      "verdict": "AC",
+      "repo": "https://github.com/Ompatel75/Judgely",
+      "demo": "https://judgely-1.onrender.com",
+      "tech": ["FastAPI", "Celery", "Redis", "PostgreSQL", "Docker", "JWT"],
+      "description": "User → FastAPI (JWT) → Redis queue → Celery worker → Docker sandbox (memory + network limits) → verdict → PostgreSQL. AI tutor explains wrong answers.",
+      "highlights": ["Isolated Docker sandbox per submission", "AI-powered hint system", "Rate-limited JWT auth"]
+    },
+    {
+      "label": "B",
+      "title": "CF Percentile Tracker",
+      "subtitle": "Chrome Extension",
+      "verdict": "AC",
+      "repo": null,
+      "demo": null,
+      "tech": ["JavaScript", "Chrome APIs"],
+      "description": "Shows runtime and memory percentile on Codeforces problem pages in real time.",
+      "highlights": ["Injected content script", "Real-time percentile overlay", "Zero-config install"]
+    },
+    {
+      "label": "C",
+      "title": "StayBnB",
+      "subtitle": "Database Design Project",
+      "verdict": "AC",
+      "repo": null,
+      "demo": null,
+      "tech": ["PostgreSQL", "SQL", "pgAdmin"],
+      "description": "Airbnb-inspired relational schema: ER modeling, BCNF decomposition, window functions, complex analytics queries.",
+      "highlights": ["Full BCNF decomposition", "Window function analytics", "ER → relational mapping"]
+    },
+    {
+      "label": "D",
+      "title": "AI Risk Analyzer",
+      "subtitle": "IT314 Team Project",
+      "verdict": "AC",
+      "repo": null,
+      "demo": null,
+      "tech": ["Python", "GenAI", "GitHub API"],
+      "description": "Analyzes repos, issues, PRs and sprints with Generative AI to flag project health risks.",
+      "highlights": ["Sprint velocity analysis", "PR merge pattern detection", "Generative AI risk scoring"]
+    }
+  ],
+
+  "stack": {
+    "languages": ["C++", "Python", "JavaScript", "SQL"],
+    "backend": ["FastAPI", "Celery", "Redis", "SQLAlchemy", "Pydantic", "JWT", "REST API"],
+    "data": ["PostgreSQL", "pgAdmin"],
+    "devops": ["Docker", "Docker Compose", "GitHub Actions", "Render", "Linux", "Git"],
+    "other": ["LaTeX", "Verilog"]
+  },
+
+  "cp_techniques": [
+    "Lazy Segment Trees", "Dynamic Segment Trees", "DSU",
+    "Mo's Algorithm", "Digit DP", "Tree DP + Rerooting",
+    "Bitmask DP", "XOR Linear Basis", "Dijkstra Variants",
+    "SCC / Bridges", "Sprague-Grundy"
+  ]
+}
