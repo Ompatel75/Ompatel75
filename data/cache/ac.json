@@ -1,0 +1,152 @@
+{
+  "fetchedAt": "2026-11-02T22:26:40.070Z",
+  "handle": "Om_patel07",
+  "rating": 1207,
+  "ratingHistory": [
+    {
+      "date": "2025-10-11",
+      "rating": 3,
+      "contestName": "abc427.contest.atcoder.jp",
+      "rank": 9081
+    },
+    {
+      "date": "2025-12-27",
+      "rating": 8,
+      "contestName": "abc438.contest.atcoder.jp",
+      "rank": 9378
+    },
+    {
+      "date": "2026-02-14",
+      "rating": 81,
+      "contestName": "abc445.contest.atcoder.jp",
+      "rank": 3468
+    },
+    {
+      "date": "2026-03-28",
+      "rating": 135,
+      "contestName": "abc451.contest.atcoder.jp",
+      "rank": 6478
+    },
+    {
+      "date": "2026-05-23",
+      "rating": 305,
+      "contestName": "abc459.contest.atcoder.jp",
+      "rank": 2813
+    },
+    {
+      "date": "2026-06-06",
+      "rating": 517,
+      "contestName": "abc461.contest.atcoder.jp",
+      "rank": 2610
+    },
+    {
+      "date": "2026-06-13",
+      "rating": 552,
+      "contestName": "abc462.contest.atcoder.jp",
+      "rank": 5371
+    },
+    {
+      "date": "2026-06-20",
+      "rating": 668,
+      "contestName": "abc463.contest.atcoder.jp",
+      "rank": 2878
+    },
+    {
+      "date": "2026-06-27",
+      "rating": 707,
+      "contestName": "abc464.contest.atcoder.jp",
+      "rank": 3698
+    },
+    {
+      "date": "2026-07-04",
+      "rating": 855,
+      "contestName": "abc465.contest.atcoder.jp",
+      "rank": 1408
+    },
+    {
+      "date": "2026-07-11",
+      "rating": 855,
+      "contestName": "abc466.contest.atcoder.jp",
+      "rank": 5937
+    },
+    {
+      "date": "2026-07-18",
+      "rating": 855,
+      "contestName": "abc467.contest.atcoder.jp",
+      "rank": 10499
+    },
+    {
+      "date": "2026-08-15",
+      "rating": 923,
+      "contestName": "abc471.contest.atcoder.jp",
+      "rank": 2345
+    },
+    {
+      "date": "2026-08-22",
+      "rating": 966,
+      "contestName": "abc472.contest.atcoder.jp",
+      "rank": 2589
+    },
+    {
+      "date": "2026-09-05",
+      "rating": 966,
+      "contestName": "arc229.contest.atcoder.jp",
+      "rank": 2767
+    },
+    {
+      "date": "2026-09-12",
+      "rating": 1003,
+      "contestName": "abc475.contest.atcoder.jp",
+      "rank": 2591
+    },
+    {
+      "date": "2026-09-19",
+      "rating": 1030,
+      "contestName": "abc476.contest.atcoder.jp",
+      "rank": 2187
+    },
+    {
+      "date": "2026-09-26",
+      "rating": 1030,
+      "contestName": "abc477.contest.atcoder.jp",
+      "rank": 10031
+    },
+    {
+      "date": "2026-10-24",
+      "rating": 1094,
+      "contestName": "abc481.contest.atcoder.jp",
+      "rank": 1256
+    },
+    {
+      "date": "2026-10-31",
+      "rating": 1207,
+      "contestName": "abc482.contest.atcoder.jp",
+      "rank": 401
+    }
+  ],
+  "solvedCount": 76,
+  "dailyAC": {
+    "2026-02-14": 3,
+    "2026-02-15": 1,
+    "2026-03-28": 3,
+    "2026-05-23": 4,
+    "2026-05-24": 1,
+    "2026-06-01": 1,
+    "2026-06-02": 3,
+    "2026-06-06": 4,
+    "2026-06-07": 2,
+    "2026-06-13": 4,
+    "2026-06-20": 4,
+    "2026-06-27": 4,
+    "2026-07-04": 5,
+    "2026-07-11": 4,
+    "2026-07-21": 2,
+    "2026-08-08": 4,
+    "2026-08-15": 5,
+    "2026-08-22": 5,
+    "2026-09-12": 4,
+    "2026-09-19": 5,
+    "2026-10-24": 5,
+    "2026-10-31": 5
+  }
+}

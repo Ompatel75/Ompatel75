@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320"
+     width="1200" height="320" role="img" aria-label="Tech stack constellation">
+  <title>Tech Stack — Om Patel</title>
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSoft">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      @media (prefers-reduced-motion: reduce) {
+        .orbit-planet { animation: none !important; }
+        animateTransform { display: none; }
+      }
+    </style></defs>
+  <rect width="1200" height="320" fill="#0d1117"/>
+  
+  <text x="600" y="20" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="12"
+        fill="#8b949e" letter-spacing="4">LANGUAGES ALLOWED · TECH STACK</text>
+  
+  <circle cx="600" cy="160" r="70" fill="none" stroke="#ff0080"
+          stroke-width="0.5" stroke-dasharray="4,8" opacity="0.3"/>
+  <circle cx="600" cy="160" r="130" fill="none" stroke="#7928ca"
+          stroke-width="0.5" stroke-dasharray="4,8" opacity="0.3"/>
+  <circle cx="600" cy="160" r="180" fill="none" stroke="#00dfd8"
+          stroke-width="0.5" stroke-dasharray="4,8" opacity="0.3"/>
+  <circle cx="600" cy="160" r="230" fill="none" stroke="#39d353"
+          stroke-width="0.5" stroke-dasharray="4,8" opacity="0.3"/>
+  
+  <!-- Center: C++ sun -->
+  <circle cx="600" cy="160" r="28" fill="#161b22" stroke="#ff0080" stroke-width="2"
+          filter="url(#glow)">
+    <animate attributeName="stroke-width" values="2;3;2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="165" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="14" font-weight="bold"
+        fill="#ff0080">C++</text>
+  <!-- Pulse ring -->
+  <circle cx="600" cy="160" r="28" fill="none" stroke="#ff0080" stroke-width="1" opacity="0.5">
+    <animate attributeName="r" values="28;40;28" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Orbit group 0 item 0: C++ -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 600 160" to="360 600 160"
+      dur="30s" repeatCount="indefinite"/>
+    <g transform="translate(670, 160)">
+      <circle r="5" fill="#ff0080" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0s"/>
+      </circle>
+    </g>
+    <g transform="translate(670, 160)">
+      <rect x="-20" y="-28" width="40" height="18" rx="3"
+            fill="#0d1117" stroke="#ff0080" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#ff0080">C++</text>
+    </g>
+  </g>
+  <!-- Orbit group 0 item 1: Python -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="90 600 160" to="450 600 160"
+      dur="30s" repeatCount="indefinite"/>
+    <g transform="translate(670, 160)">
+      <circle r="5" fill="#ff0080" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0.3s"/>
+      </circle>
+    </g>
+    <g transform="translate(670, 160)">
+      <rect x="-24" y="-28" width="48" height="18" rx="3"
+            fill="#0d1117" stroke="#ff0080" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#ff0080">Python</text>
+    </g>
+  </g>
+  <!-- Orbit group 0 item 2: JavaScript -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="180 600 160" to="540 600 160"
+      dur="30s" repeatCount="indefinite"/>
+    <g transform="translate(670, 160)">
+      <circle r="5" fill="#ff0080" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0.6s"/>
+      </circle>
+    </g>
+    <g transform="translate(670, 160)">
+      <rect x="-40" y="-28" width="80" height="18" rx="3"
+            fill="#0d1117" stroke="#ff0080" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#ff0080">JavaScript</text>
+    </g>
+  </g>
+  <!-- Orbit group 0 item 3: SQL -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="270 600 160" to="630 600 160"
+      dur="30s" repeatCount="indefinite"/>
+    <g transform="translate(670, 160)">
+      <circle r="5" fill="#ff0080" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0.8999999999999999s"/>
+      </circle>
+    </g>
+    <g transform="translate(670, 160)">
+      <rect x="-20" y="-28" width="40" height="18" rx="3"
+            fill="#0d1117" stroke="#ff0080" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#ff0080">SQL</text>
+    </g>
+  </g>
+  <!-- Orbit group 1 item 0: FastAPI -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="30 600 160" to="390 600 160"
+      dur="50s" repeatCount="indefinite"/>
+    <g transform="translate(730, 160)">
+      <circle r="5" fill="#7928ca" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0s"/>
+      </circle>
+    </g>
+    <g transform="translate(730, 160)">
+      <rect x="-28" y="-28" width="56" height="18" rx="3"
+            fill="#0d1117" stroke="#7928ca" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#7928ca">FastAPI</text>
+    </g>
+  </g>
+  <!-- Orbit group 1 item 1: Celery -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="90 600 160" to="450 600 160"
+      dur="50s" repeatCount="indefinite"/>
+    <g transform="translate(730, 160)">
+      <circle r="5" fill="#7928ca" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0.3s"/>
+      </circle>
+    </g>
+    <g transform="translate(730, 160)">
+      <rect x="-24" y="-28" width="48" height="18" rx="3"
+            fill="#0d1117" stroke="#7928ca" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#7928ca">Celery</text>
+    </g>
+  </g>
+  <!-- Orbit group 1 item 2: Redis -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="150 600 160" to="510 600 160"
+      dur="50s" repeatCount="indefinite"/>
+    <g transform="translate(730, 160)">
+      <circle r="5" fill="#7928ca" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0.6s"/>
+      </circle>
+    </g>
+    <g transform="translate(730, 160)">
+      <rect x="-20" y="-28" width="40" height="18" rx="3"
+            fill="#0d1117" stroke="#7928ca" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#7928ca">Redis</text>
+    </g>
+  </g>
+  <!-- Orbit group 1 item 3: SQLAlchemy -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="210 600 160" to="570 600 160"
+      dur="50s" repeatCount="indefinite"/>
+    <g transform="translate(730, 160)">
+      <circle r="5" fill="#7928ca" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0.8999999999999999s"/>
+      </circle>
+    </g>
+    <g transform="translate(730, 160)">
+      <rect x="-40" y="-28" width="80" height="18" rx="3"
+            fill="#0d1117" stroke="#7928ca" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#7928ca">SQLAlchemy</text>
+    </g>
+  </g>
+  <!-- Orbit group 1 item 4: Pydantic -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="270 600 160" to="630 600 160"
+      dur="50s" repeatCount="indefinite"/>
+    <g transform="translate(730, 160)">
+      <circle r="5" fill="#7928ca" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="1.2s"/>
+      </circle>
+    </g>
+    <g transform="translate(730, 160)">
+      <rect x="-32" y="-28" width="64" height="18" rx="3"
+            fill="#0d1117" stroke="#7928ca" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#7928ca">Pydantic</text>
+    </g>
+  </g>
+  <!-- Orbit group 1 item 5: JWT -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="330 600 160" to="690 600 160"
+      dur="50s" repeatCount="indefinite"/>
+    <g transform="translate(730, 160)">
+      <circle r="5" fill="#7928ca" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="1.5s"/>
+      </circle>
+    </g>
+    <g transform="translate(730, 160)">
+      <rect x="-20" y="-28" width="40" height="18" rx="3"
+            fill="#0d1117" stroke="#7928ca" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#7928ca">JWT</text>
+    </g>
+  </g>
+  <!-- Orbit group 2 item 0: PostgreSQL -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="60 600 160" to="420 600 160"
+      dur="70s" repeatCount="indefinite"/>
+    <g transform="translate(780, 160)">
+      <circle r="5" fill="#00dfd8" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0s"/>
+      </circle>
+    </g>
+    <g transform="translate(780, 160)">
+      <rect x="-40" y="-28" width="80" height="18" rx="3"
+            fill="#0d1117" stroke="#00dfd8" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#00dfd8">PostgreSQL</text>
+    </g>
+  </g>
+  <!-- Orbit group 2 item 1: pgAdmin -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="180 600 160" to="540 600 160"
+      dur="70s" repeatCount="indefinite"/>
+    <g transform="translate(780, 160)">
+      <circle r="5" fill="#00dfd8" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0.3s"/>
+      </circle>
+    </g>
+    <g transform="translate(780, 160)">
+      <rect x="-28" y="-28" width="56" height="18" rx="3"
+            fill="#0d1117" stroke="#00dfd8" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#00dfd8">pgAdmin</text>
+    </g>
+  </g>
+  <!-- Orbit group 2 item 2: LaTeX -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="300 600 160" to="660 600 160"
+      dur="70s" repeatCount="indefinite"/>
+    <g transform="translate(780, 160)">
+      <circle r="5" fill="#00dfd8" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0.6s"/>
+      </circle>
+    </g>
+    <g transform="translate(780, 160)">
+      <rect x="-20" y="-28" width="40" height="18" rx="3"
+            fill="#0d1117" stroke="#00dfd8" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#00dfd8">LaTeX</text>
+    </g>
+  </g>
+  <!-- Orbit group 3 item 0: Docker -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="15 600 160" to="375 600 160"
+      dur="90s" repeatCount="indefinite"/>
+    <g transform="translate(830, 160)">
+      <circle r="5" fill="#39d353" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0s"/>
+      </circle>
+    </g>
+    <g transform="translate(830, 160)">
+      <rect x="-24" y="-28" width="48" height="18" rx="3"
+            fill="#0d1117" stroke="#39d353" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#39d353">Docker</text>
+    </g>
+  </g>
+  <!-- Orbit group 3 item 1: Compose -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="75 600 160" to="435 600 160"
+      dur="90s" repeatCount="indefinite"/>
+    <g transform="translate(830, 160)">
+      <circle r="5" fill="#39d353" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0.3s"/>
+      </circle>
+    </g>
+    <g transform="translate(830, 160)">
+      <rect x="-28" y="-28" width="56" height="18" rx="3"
+            fill="#0d1117" stroke="#39d353" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#39d353">Compose</text>
+    </g>
+  </g>
+  <!-- Orbit group 3 item 2: GitHub Actions -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="135 600 160" to="495 600 160"
+      dur="90s" repeatCount="indefinite"/>
+    <g transform="translate(830, 160)">
+      <circle r="5" fill="#39d353" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0.6s"/>
+      </circle>
+    </g>
+    <g transform="translate(830, 160)">
+      <rect x="-40" y="-28" width="80" height="18" rx="3"
+            fill="#0d1117" stroke="#39d353" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#39d353">GitHub Ac…</text>
+    </g>
+  </g>
+  <!-- Orbit group 3 item 3: Render -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="195 600 160" to="555 600 160"
+      dur="90s" repeatCount="indefinite"/>
+    <g transform="translate(830, 160)">
+      <circle r="5" fill="#39d353" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="0.8999999999999999s"/>
+      </circle>
+    </g>
+    <g transform="translate(830, 160)">
+      <rect x="-24" y="-28" width="48" height="18" rx="3"
+            fill="#0d1117" stroke="#39d353" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#39d353">Render</text>
+    </g>
+  </g>
+  <!-- Orbit group 3 item 4: Linux -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="255 600 160" to="615 600 160"
+      dur="90s" repeatCount="indefinite"/>
+    <g transform="translate(830, 160)">
+      <circle r="5" fill="#39d353" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="1.2s"/>
+      </circle>
+    </g>
+    <g transform="translate(830, 160)">
+      <rect x="-20" y="-28" width="40" height="18" rx="3"
+            fill="#0d1117" stroke="#39d353" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#39d353">Linux</text>
+    </g>
+  </g>
+  <!-- Orbit group 3 item 5: Git -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="315 600 160" to="675 600 160"
+      dur="90s" repeatCount="indefinite"/>
+    <g transform="translate(830, 160)">
+      <circle r="5" fill="#39d353" opacity="0.8" filter="url(#glowSoft)">
+        <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"
+          begin="1.5s"/>
+      </circle>
+    </g>
+    <g transform="translate(830, 160)">
+      <rect x="-20" y="-28" width="40" height="18" rx="3"
+            fill="#0d1117" stroke="#39d353" stroke-width="0.8" opacity="0.9"/>
+      <text x="0" y="-16" text-anchor="middle"
+            font-family="'Courier New',Courier,monospace" font-size="9"
+            fill="#39d353">Git</text>
+    </g>
+  </g>
+  
+  <!-- Legend -->
+  <rect x="20" y="20" width="10" height="10" rx="2" fill="#ff0080"/>
+  <text x="36" y="30" font-family="'Courier New',Courier,monospace"
+        font-size="10" fill="#ff0080">LANGUAGES</text>
+  <rect x="20" y="42" width="10" height="10" rx="2" fill="#7928ca"/>
+  <text x="36" y="52" font-family="'Courier New',Courier,monospace"
+        font-size="10" fill="#7928ca">BACKEND</text>
+  <rect x="20" y="64" width="10" height="10" rx="2" fill="#00dfd8"/>
+  <text x="36" y="74" font-family="'Courier New',Courier,monospace"
+        font-size="10" fill="#00dfd8">DATA</text>
+  <rect x="20" y="86" width="10" height="10" rx="2" fill="#39d353"/>
+  <text x="36" y="96" font-family="'Courier New',Courier,monospace"
+        font-size="10" fill="#39d353">DEVOPS</text>
+</svg>
